@@ -1,0 +1,24 @@
+Name,"Web pages",Address,Postcode,Telephone,Email,"Opening hours",Location
+"City Centre Neighbourhood Office",http://www.edinburgh.gov.uk/citycentreandleith,"1 Cockburn Street","EH1 1BJ","0131 529 7061","citycentreteam@edinburgh.gov.uk ","Mon, Wed, Thurs, 8.30am - 5pm
+Tue, 10am - 5pm
+Fri, 8.30am - 3.40pm","55.95078573732273,-3.1911849975585938"
+"East Neighbourhood Centre",http://www.edinburgh.gov.uk/east,"101 Niddrie Mains Road","EH16 4DS","0131 529 3111",sfc.eastneighbourhood@edinburgh.gov.uk,"Mon, Wed, Thurs, 8.30am - 5pm
+Tue, 10am - 5pm
+Fri, 8.30am - 3.40pm","55.932567844504675,-3.136425018310547"
+"Kirkliston Office",http://www.edinburgh.gov.uk/west,"16 Station Road, Kirkliston","EH29 9BE","0131 529 6920",,,"55.95523075598009,-3.40151309967041"
+"Leith office",http://www.edinburgh.gov.uk/citycentreandleith,"Leith Library, 28-30 Ferry Road, Edinburgh","EH6 4AE","0131 529 6170",leithcitycentreteam@edinburgh.gov.uk,"Mon, Wed, Thurs, 8.30am - 5pm
+Tue, 10am - 5pm
+Fri, 8.30am - 3.40pm","55.97543113782453,-3.1800270080566406"
+"North Neighbourhood Office",http://www.edinburgh.gov.uk/north,"8 West Pilton Gardens","EH4 4DP","0131 529 5050",sfc.northneighbourhood@edinburgh.gov.uk,"Mon, Wed, Thurs, 8.30am - 5pm
+Tue, 10am - 5pm
+Fri, 8.30am - 3.40pm","55.96990770521601,-3.248004913330078"
+"South Neighbourhood Office",http://www.edinburgh.gov.uk/south,"40 Captains Road","EH17 8HN","0131 529 5151",sfc.southneighbourhood@edinburgh.gov.uk,"Mon, Wed, Thurs, 8.30am - 5pm
+Tue, 10am - 5pm
+Fri, 8.30am - 3.40pm","55.902891358217516,-3.1534194946289062"
+"South Queensferry Office",http://www.edinburgh.gov.uk/west,"53 High Street, South Queensferry","EH30 9HP","0131 331 1590",,,"55.98978837221676,-3.393702507019043"
+"South-West Neighbourhood Office",http://www.edinburgh.gov.uk/southwest,"10 Westside Plaza","EH14 2ET","0131 527 3800",sfc.southwestneighbourhood@edinburgh.gov.uk,"Mon, Wed, Thurs, 8.30am - 5pm
+Tue, 10am - 5pm
+Fri, 8.30am - 3.40pm","55.91602492336572,-3.2866287231445312"
+"West Neighbourhood Office",http://www.edinburgh.gov.uk/west,"The Drum Brae Library Hub, 81 Drum Brae Drive, Edinburgh","EH4 7FE","0131 529 7440",sfc.westneighbourhood@edinburgh.gov.uk,"Mon, Wed, Thurs, 8.30am - 5pm
+Tue, 10am - 5pm
+Fri, 8.30am - 3.40pm","55.955831395034465,-3.2863283157348633"

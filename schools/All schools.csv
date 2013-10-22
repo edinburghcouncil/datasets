@@ -1,0 +1,159 @@
+SITE_NAME,ADDRESS,POSTCODE,SECTOR,SUB_TYPE,RELIGION,NURSERY,ANNEXE,COMM_ED_AR,CF_AREA,WARD_NAME,WARD_NO,SIP_AREA,LDC_AREA,SEED_NO,TELEPHONE,FAX_NUMBER,WEBSITE,X_COORD,Y_COORD
+Abbeyhill Primary School,"Abbey Street, Edinburgh",EH7 5SJ,Primary,ND Primary,ND,YES,,N/A,North,City Centre,11,N/A,East,5520924,661 3054,478 7067,www.abbeyhill.edin.sch.uk,327073,674330
+Balgreen Primary School,"171 Balgreen Road, Edinburgh",EH11 3AT,Primary,ND Primary,ND,,,N/A,West,Sighthill/Gorgie,7,N/A,Central,5521025,337 6066,476 7220,www.balgreen.edin.sch.uk,322130,672300
+Blackhall Primary School,"83 Craigcrook Road, Edinburgh",EH4 3PH,Primary,ND Primary,ND,,,N/A,West,Inverleith,5,N/A,West,5521122,336 1023,466 7063,www.blackhall.edin.sch.uk,321338,674322
+Bonaly Primary School,"57 Bonaly Road, Edinburgh",EH13 0FJ,Primary,ND Primary,ND,YES,,N/A,South West,Colinton/Fairmilehead,8,N/A,Pentlands,5540925,441 7211,477 7046,www.bonaly.edin.sch.uk,321388,668064
+Broomhouse Primary School,"39 Saughton Road, Edinburgh",EH11 3RQ,Primary,ND Primary,ND,YES,,N/A,West,Sighthill/Gorgie,7,Broomhouse,Pentlands,5521424,443 3783,444 5446,www.broomhouse.edin.sch.uk,320494,671313
+Broughton Primary School,"132 Broughton Road, Edinburgh",EH7 4LD,Primary,ND Primary,ND,YES,,N/A,North,Leith Walk,12,N/A,North and Leith,5521521,556 7028,556 7001,www.broughton-pri-edin.sch.uk,325880,675350
+Brunstane Primary School,"106 Magdalene Drive, Edinburgh",EH15 3BE,Primary,ND Primary,ND,YES,,N/A,East,Portobello/Craigmillar,17,N/A,East,5521629,669 4498,669 7457,www.brunstane.edin.sch.uk,331160,672636
+Bruntsfield Primary School,"12 Montpelier, Edinburgh",EH10 4NA,Primary,ND Primary,ND,,,N/A,South,Meadows/Morningside,10,N/A,South,5521726,229 1821,221 9969,www.bruntsfield.edin.sch.uk,324480,672250
+Buckstone Primary School,"79 Buckstone Loan East, Edinburgh",EH10 6UY,Primary,ND Primary,ND,YES,,N/A,South,Colinton/Fairmilehead,8,N/A,Pentlands,5541220,445 4545,445 7709,www.buckstone.edin.sch.uk,325330,668730
+Canal View Primary School,"Dumbryden Gardens, Edinburgh",EH14 2NZ,Primary,ND Primary,ND,YES,,N/A,South West,Sighthill/Gorgie,7,Wester Hailes,Pentlands,5520428,453 5686,453 3880,none,320075,669956
+Carrick Knowe Primary School,"Lampacre Road, Edinburgh",EH12 7HU,Primary,ND Primary,ND,YES,,N/A,West,Corstorphine/Murrayfield,6,N/A,West,5521920,334 4505,467 7923,www.carrickknowe.edin.sch.uk,320510,672450
+Castleview Primary School,"2D Greendykes Road, Edinburgh",EH16 4DP,Primary,ND Primary,ND,YES,,N/A,East,Portobello/Craigmillar,17,Craigmillar,East,5520029,661 6429,661 9493,www.castleview.edin.sch.uk,329150,671401
+Clermiston Primary School,"18 Parkgrove Place , Edinburgh",EH4 7NP,Primary,ND Primary,ND,YES,,N/A,West,Drum Brae/Gyle,3,N/A,West,5522021,336 3361,538 7251,www.clermiston.edin.sch.uk,319460,674870
+Clovenstone Primary School,"54 Clovenstone Park , Edinburgh",EH14 3EY,Primary,ND Primary,ND,YES,,N/A,South West,Pentland Hills,2,Wester Hailes,Pentlands,5532027,453 4242,453 2598,www.clovenstone.edin.sch.uk,320460,669430
+Colinton Primary School,"Redford Place, Edinburgh",EH13 0AL,Primary,ND Primary,ND,YES,,N/A,South West,Colinton/Fairmilehead,8,N/A,Pentlands,5522129,441 1946,441 4861,www.colinton.edin.sch.uk,322790,669055
+Corstorphine Primary School,"62 Corstorphine High Street, Edinburgh",EH12 7SY,Primary,ND Primary,ND,YES,,N/A,West,Corstorphine/Murrayfield,6,N/A,West,5522323,334 3865,538 7274,www.corstorphine.edin.sch.uk,319810,672700
+Craigentinny Primary School,"4 Loganlea Drive, Edinburgh",EH7 6LR,Primary,ND Primary,ND,YES,,N/A,North,Craigentinny/Duddingston,14,Restalrig,East,5522420,661 2749,467 7212,none,328642,674708
+Craiglockhart Primary School,"90 Ashley Terrace, Edinburgh",EH11 1RG,Primary,ND Primary,ND,YES,,N/A,West,Fountainbridge/Craiglockhart,9,N/A,Central,5522528,337 1407,346 0735,www.craiglockhart.edin.sch.uk,323380,671650
+Craigour Park Primary School,"102 Moredun Park Road, Edinburgh",EH17 7HL,Primary,ND Primary,ND,YES,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5520223,664 2154,621 7010,www.craigourpark.edin.sch.uk,329168,669452
+Craigroyston Primary School,"7 Muirhouse Place West, Edinburgh",EH4 4PX,Primary,ND Primary,ND,YES,,N/A,North,Forth,4,North Edinburgh,West,5502527,332 2793,315 3971,none,321770,675760
+Cramond Primary School,"4 Cramond Crescent, Edinburgh",EH4 6PG,Primary,ND Primary,ND,YES,,N/A,West,Almond,1,N/A,West,5522927,312 6450,312 8710,none,318690,676150
+Currie Primary School,"210 Lanark Road West, Currie",EH14 5NN,Primary,ND Primary,ND,YES,,N/A,South West,Pentland Hills,2,N/A,Pentlands,5520320,449 3359,476 7019,www.currie.ik.org,317999,667994
+Dalmeny Primary School,"Carlowrie Crescent, Dalmeny, South Queensferry",EH30 9TZ,Primary,ND Primary,ND,YES,,N/A,West,Almond,1,N/A,West,5531527,331 1447,331 1447,www.dalmeny.edin.sch.uk,314387,677235
+Dalry Primary School,"4 Cathcart Place, Edinburgh",EH11 2JB,Primary,ND Primary,ND,YES,,N/A,West,Sighthill/Gorgie,7,N/A,Central,5523028,337 6086,337 3798,www.dalry.edin.sch.uk,323710,672790
+Davidson's Mains Primary School,"Corbiehill Road, Edinburgh",EH4 5DZ,Primary,ND Primary,ND,YES,,N/A,West,Almond,1,N/A,West,5523125,336 1184,467 7784,www.davidsonsmains.edin.sch.uk,320910,675250
+Dean Park Primary School,"31 Marchbank Gardens, Balerno",EH14 7ET,Primary,ND Primary,ND,YES,,N/A,South West,Pentland Hills,2,N/A,Pentlands,5540429,449 4529,449 5990,none,316076,665929
+Dean Park Primary School Annexe,"1 Main Street, Balerno",EH14 7EQ,Primary,NDPS Annexe,ND,YES,YES,N/A,South West,Pentland Hills,2,N/A,Pentlands,5540429,449 4529,449 5990,none,316305,666530
+Duddingston Primary School,"70a Duddingston Road, Edinburgh",EH15 1SW,Primary,ND Primary,ND,YES,,N/A,East,Craigentinny/Duddingston,14,N/A,East,5523524,669 5092,669 4224,www.duddingston.edin.sch.uk,329430,673340
+East Craigs Primary School,"79 Craigmount Brae, Edinburgh",EH12 8XF,Primary,ND Primary,ND,YES,,N/A,West,Drum Brae/Gyle,3,N/A,West,5531225,339 7115,538 7276,www.eastcraigs.edin.sch.uk,318786,673915
+Echline Primary School,"Bo'ness Road, South Queensferry",EH30 9XJ,Primary,ND Primary,ND,YES,,N/A,West,Almond,1,N/A,West,5518229,331 3397,319 2385,www.echline.edin.sch.uk,312014,678151
+Ferryhill Primary School,"Groathill Road North, Edinburgh",EH4 2SQ,Primary,ND Primary,ND,YES,,N/A,North,Inverleith,5,North Edinburgh,West,5541522,538 7382,538 7381,www.ferryhill.edin.sch.uk,322036,675205
+Flora Stevenson Primary School,"175 Comely Bank, Edinburgh",EH4 1BG,Primary,ND Primary,ND,YES,,N/A,North,Inverleith,5,N/A,Central,5523826,332 1604,343 6310,www.florastevenson.edin.sch.uk,323602,674607
+Forthview Primary School,"West Pilton Place, Edinburgh",EH4 4DF,Primary,ND Primary,ND,YES,,N/A,North,Forth,4,North Edinburgh,North and Leith,5520126,332 2468,332 2201,www.forthview.edin.sch.uk,322680,675950
+Fox Covert Primary School,"Clerwood Terrace, Edinburgh",EH12 8PG,Primary,ND Primary,ND,,,N/A,West,Drum Brae/Gyle,3,N/A,West,5524024,339 3749,317 8612,www.foxcovert.edin.sch.uk,320207,674016
+Fox Covert RC Primary School,"Clerwood Terrace, Edinburgh",EH12 8PG,Primary,RC Primary,RC,,,N/A,West,Drum Brae/Gyle,3,N/A,West,5524121,339 2383,317 8638,www.foxcovert-rc.edin.sch.uk,320160,673980
+Gilmerton Primary School,"2 Moredun Dykes Road, Edinburgh",EH17 8NQ,Primary,ND Primary,ND,,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5524229,664 3614,672 3096,www.gilmerton.edin.sch.uk,328936,668853
+Gracemount Primary School,"Lasswade Road, Edinburgh",EH16 6UA,Primary,ND Primary,ND,YES,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5524423,664 2331,621 7029,www.gracemount-pri.edin.sch.uk,327895,668581
+Granton Primary School,"55 Boswall Parkway, Edinburgh",EH5 2DA,Primary,ND Primary,ND,YES,,N/A,North,Forth,4,North Edinburgh,North and Leith,5524520,552 3987,551 2856,none,323560,676620
+Gylemuir Primary School,"10 Wester Broom Place, Edinburgh",EH12 7RT,Primary,ND Primary,ND,YES,,N/A,West,Drum Brae/Gyle,3,N/A,West,5524822,334 7138,334 7138,www.gylemuir.edin.sch.uk,319180,672410
+Hermitage Park Primary School,"9 Hermitage Park, Edinburgh",EH6 8HD,Primary,ND Primary,ND,YES,,N/A,North,Leith,13,N/A,East,5525128,554 2952,538 7280,www.hermitagepark.edin.sch.uk,327562,675341
+Hillwood Primary School,"Station Road, Ratho Station, Newbridge",EH28 8PT,Primary,ND Primary,ND,YES,,N/A,West,Almond,1,N/A,West,5540526,333 1210,335 3682,none,313179,672304
+Holy Cross RC Primary School,"Craighall Road, Edinburgh",EH6 4RE,Primary,RC Primary,RC,YES,,N/A,North,Forth,4,N/A,North and Leith,5525225,552 1972,478 7033,none,325400,676250
+James Gillespie's Primary School,"Whitehouse Loan, Edinburgh",EH9 1BD,Primary,ND Primary,ND,YES,,N/A,South,Meadows/Morningside,10,N/A,South,5525829,447 1014,447 1042,www.jamesgillespies-pri.edin.sch.uk,325011,672164
+Juniper Green Primary School,"20 Baberton Mains Wynd, Edinburgh",EH14 3EE,Primary,ND Primary,ND,YES,,N/A,South West,Pentland Hills,2,N/A,Pentlands,5525926,442 2121,467 7980,www.junigreen.ik.org,319776,668909
+Kirkliston Primary School,"15 Carmel Road, Kirkliston",EH29 9DD,Primary,ND Primary,ND,,,N/A,West,Almond,1,N/A,West,5531721,333 3260,335 3582,www.kirkliston.edin.sch.uk,312036,674548
+Leith Primary School,"St Andrew's Place, Edinburgh",EH6 7EG,Primary,ND Primary,ND,YES,,N/A,North,Leith,13,Leith,North and Leith,5532221,554 4844,467 7988,www.leith-pri.edin.sch.uk,327149,675895
+Leith Walk Primary School,"9 Brunswick Road, Edinburgh",EH7 5NG,Primary,ND Primary,ND,YES,,N/A,North,Leith Walk,12,N/A,North and Leith,5526124,556 3873,556 6524,none,326470,674780
+Liberton Primary School,"229 Gilmerton Road, Edinburgh",EH16 5UD,Primary,ND Primary,ND,YES,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5531829,664 2337,666 0599,www.liberton-pri.edin.sch.uk,327470,670610
+Longstone Primary School,"Redhall Grove, Edinburgh",EH14 2DU,Primary,ND Primary,ND,YES,,N/A,South West,Sighthill/Gorgie,7,N/A,Pentlands,5526523,443 4743,443 5297,www.longstone.edin.sch.uk,321280,670490
+Lorne Primary School,"7 Lorne Street, Edinburgh",EH6 8QS,Primary,ND Primary,ND,YES,,N/A,North,Leith Walk,12,Leith,North and Leith,5526620,554 2308,467 7228,www.lorne.edin.sch.uk,326781,675421
+Murrayburn Primary School,"1 Sighthill Loan, Edinburgh",EH11 4NP,Primary,ND Primary,ND,YES,,N/A,West,Sighthill/Gorgie,7,Broomhouse,Pentlands,5527023,453 5339,442 1709,www.murrayburn.edin.sch.uk,320016,670665
+Nether Currie Primary School,"23 Thomson Crescent, Currie",EH14 5JR,Primary,ND Primary,ND,,,N/A,South West,Pentland Hills,2,N/A,Pentlands,5540224,449 3140,449 2477,www.nethercurrie.edin.sch.uk,318620,668220
+Newcraighall Primary School,"Whitehill Street, Newcraighall, Musselburgh",EH21 8QZ,Primary,ND Primary,ND,YES,,N/A,East,Portobello/Craigmillar,17,N/A,East,5527120,669 3598,657 4134,none,332130,671880
+Niddrie Mill Primary School,"20 Moffat Way, Edinburgh",EH16 4PY,Primary,ND Primary,ND,,,N/A,East,Portobello/Craigmillar,17,Craigmillar,East,5527228,468 7025,468 7027,www.niddriemill.edin.sch.uk,329684,671875
+Oxgangs Primary School,"60 Oxgangs Road North, Edinburgh",EH13 9DS,Primary,ND Primary,ND,YES,,N/A,South West,Colinton/Fairmilehead,8,Oxgangs,Pentlands,5527422,441 3649,441 9838,www.oxgangs.edin.sch.uk,322906,669533
+Parsons Green Primary School,"60 Meadowfield Drive, Edinburgh",EH8 7LU,Primary,ND Primary,ND,YES,,N/A,East,Craigentinny/Duddingston,14,N/A,East,5527627,661 4459,661 6405,www.parsonsgreen.edin.sch.uk,328680,673370
+Pentland Primary School,"Oxgangs Green, Edinburgh",EH13 9JE,Primary,ND Primary,ND,YES,,N/A,South West,Colinton/Fairmilehead,8,Oxgangs,Pentlands,5530920,445 1510,445 7710,www.pentland.edin.sch.uk,323848,668905
+Pentland Primary School (Nursery Annexe),"1A Frogstone Road, Edinburgh",EH10 7AA,Primary,NDPS Annexe,ND,YES,YES,N/A,South West,Colinton/Fairmilehead,8,N/A,Pentlands,5530920,445 2880,,none,324840,668260
+Pirniehall Primary School,"4 West Pilton Crescent, Edinburgh",EH4 4HP,Primary,ND Primary,ND,YES,,N/A,North,Forth,4,North Edinburgh,North and Leith,5527821,332 5256,538 7093,none,322030,676310
+Preston Street Primary School,"169 Dalkeith Road, Edinburgh",EH16 5BR,Primary,ND Primary,ND,,,N/A,South,Southside/Newington,15,N/A,Central,5528127,667 4208,667 9217,none,326640,672490
+Prestonfield Primary School,"Peffermill Road, Edinburgh",EH16 5LJ,Primary,ND Primary,ND,YES,,N/A,South,Southside/Newington,15,Prestonfield,South,5527929,667 1336,662 0813,www.prestonfield.edin.sch.uk,327710,671480
+Queensferry Primary School,"Burgess Road, South Queensferry",EH30 9NX,Primary,ND Primary,ND,YES,,N/A,West,Almond,1,N/A,West,5518024,331 1349,331 5771,www.queensferry-pri.edin.sch.uk,313091,678034
+Ratho Primary School,"1 School Wynd, Ratho",EH28 8TT,Primary,ND Primary,ND,YES,,N/A,South West,Pentland Hills,2,N/A,West,5540623,333 1293,333 2847,www.ratho.edin.sch.uk,313594,670776
+Roseburn Primary School,"64 Roseburn Street, Edinburgh",EH12 5PL,Primary,ND Primary,ND,YES,,N/A,West,Corstorphine/Murrayfield,6,N/A,Central,5528224,337 6096,476 7810,www.roseburn.edin.sch.uk,322864,672969
+Royal Mile Primary School,"86 Canongate, Edinburgh",EH8 8BZ,Primary,ND Primary,ND,YES,,N/A,South,City Centre,11,Southside,Central,5541727,556 3347,557 9186,www.royalmile.edin.sch.uk,326582,673816
+Sciennes Primary School,"10 Sciennes Road, Edinburgh",EH9 1LG,Primary,ND Primary,ND,,,N/A,South,Southside/Newington,15,N/A,South,5528526,667 1243,667 1243,www.sciennes.edin.sch.uk,325901,672338
+Sighthill Primary School,"1 Calder Park, Edinburgh",EH11 4NF,Primary,ND Primary,ND,YES,,N/A,South West,Sighthill/Gorgie,7,Wester Hailes,Pentlands,5528623,453 2464,442 2842,www.sighthillprimary.btik.com,319300,670420
+South Morningside Primary School,"116 Comiston Road, Edinburgh",EH10 5QN,Primary,ND Primary,ND,YES,,N/A,South,Meadows/Morningside,10,N/A,Pentlands,5528925,447 5446,446 9839,www.southmorningside.edin.sch.uk,324340,670470
+St Catherine's RC Primary School,"30 Gracemount Drive, Edinburgh",EH16 6RN,Primary,RC Primary,RC,YES,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5529220,664 4257,672 2919,none,327818,668449
+St Cuthbert's RC Primary School,"9 Hutchison Crossway, Edinburgh",EH14 1RP,Primary,RC Primary,RC,,,N/A,West,Fountainbridge/Craiglockhart,9,N/A,Central,5529328,443 2621,443 9298,www.stcuthberts.edin.sch.uk,322538,671552
+St David's RC Primary School (Edin),"4 West Pilton Crescent, Edinburgh",EH4 4EP,Primary,RC Primary,RC,YES,,N/A,North,Forth,4,North Edinburgh,North and Leith,5529425,332 3500,332 6085,none,322108,676306
+St Francis' RC Primary School,"20 Moffat Way, Edinburgh",EH16 4PY,Primary,RC Primary,RC,,,N/A,East,Portobello/Craigmillar,17,Craigmillar,East,5529522,661 3053,621 6603,www.st-francis.ik.org,329645,671934
+St John Vianney RC Primary School,"17 Ivanhoe Crescent, Edinburgh",EH16 6AU,Primary,RC Primary,RC,YES,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5529824,664 1742,672 2854,none,327760,670120
+St John's RC Primary School,"Hamilton Terrace, Edinburgh",EH15 1NB,Primary,RC Primary,RC,YES,,N/A,East,Craigentinny/Duddingston,14,N/A,East,5529727,669 1363,657 3122,www.stjohnsportobello.ik.org,330038,673454
+St Joseph's RC Primary School (Edin),"Saughton Road, Edinburgh",EH11 3RQ,Primary,RC Primary,RC,YES,,N/A,West,Sighthill/Gorgie,7,Broomhouse,Pentlands,5529921,443 4591,444 2802,www.stjosephsprimary.ik.org,320546,671330
+St Margaret's RC Primary School,"Station Road, South Queensferry",EH30 9JY,Primary,RC Primary,RC,,,N/A,West,Almond,1,N/A,West,5518121,331 1895,331 5493,none,313497,678047
+St Mark's RC Primary School,"63 Firrhill Crescent, Edinburgh",EH13 9EE,Primary,RC Primary,RC,YES,,N/A,South West,Colinton/Fairmilehead,8,Oxgangs,Pentlands,5530024,441 2948,441 7601,www.stmarksprimary.ik.org,323212,669361
+St Mary's RC Primary School (Edin),"63 East London Street, Edinburgh",EH7 4BW,Primary,RC Primary,RC,,,N/A,North,City Centre,11,N/A,North and Leith,5530121,556 7128,557 2455,www.stmarysrc-primary.ik.org,325970,674706
+St Mary's RC Primary School (Leith),"30 Links Gardens, Leith, Edinburgh",EH6 7JG,Primary,RC Primary,RC,YES,,N/A,North,Leith,13,Leith,North and Leith,5530229,554 7291,554 8523,www.stmarysleith.ik.org,327710,676010
+St Ninian's RC Primary School (Edin),"150 Restalrig Road South, Edinburgh",EH7 6JA,Primary,RC Primary,RC,YES,,N/A,North,Craigentinny/Duddingston,14,Restalrig,East,5530326,661 3431,652 1458,www.st-ninians.btik.com,328267,674786
+St Peter's RC Primary School,"10 Falcon Road, Edinburgh",EH10 4AH,Primary,RC Primary,RC,YES,,N/A,South,Meadows/Morningside,10,N/A,Central,5530520,447 5742,446 3674,www.st-peters.edin.sch.uk,324840,671357
+Stenhouse Primary School,"4 Saughton Mains Street, Edinburgh",EH11 3HH,Primary,ND Primary,ND,YES,,N/A,West,Sighthill/Gorgie,7,N/A,Central,5529026,443 1255,467 7792,www.stenhouse.edin.sch.uk,321200,671580
+Stockbridge Primary School,"17a Hamilton Place, Edinburgh",EH3 5BA,Primary,ND Primary,ND,YES,,N/A,North,Inverleith,5,N/A,North and Leith,5529123,332 6109,332 6109,www.stockbridge.edin.sch.uk,324690,674700
+The Royal High Primary School,"61 Northfield Broadway, Edinburgh",EH8 7RX,Primary,ND Primary,ND,YES,,N/A,East,Craigentinny/Duddingston,14,N/A,East,5528321,669 3200,669 1552,www.royalhigh-pri.edin.sch.uk,328920,673980
+Tollcross Primary School,"117 Fountainbridge, Edinburgh",EH3 9QG,Primary,ND Primary,ND,YES,,N/A,South,Fountainbridge/Craiglockhart,9,N/A,Central,5530628,229 7828,229 5838,www.tollcrossprimary.ik.org,324752,672904
+Towerbank Primary School,"Figgate Bank, Edinburgh",EH15 1HX,Primary,ND Primary,ND,YES,,N/A,East,Portobello/Craigmillar,17,N/A,East,5530725,669 1551,657 3907,www.towerbank.ik.org,330610,674100
+Towerbank Primary School Annexe,"Portobello, Edinburgh",EH15 1EZ,Primary,NDPS Annexe,ND,YES,YES,N/A,East,Portobello/Craigmillar,17,N/A,East,5530725,657 2607,657 3907,www.towerbank.ik.org,330591,673917
+Trinity Primary School,"181 Newhaven Road, Edinburgh",EH6 4QA,Primary,ND Primary,ND,,,N/A,North,Forth,4,N/A,North and Leith,5530822,554 2062,553 4607,www.trinity-pri.edin.sch.uk,325630,676570
+Victoria Primary School,"4-6 Newhaven Main Street, Edinburgh",EH6 4HY,Primary,ND Primary,ND,,,N/A,North,Leith,13,N/A,North and Leith,5531020,476 7306,466 7278,www.victoriaprimary.ik.org,325672,677036
+Wardie Primary School,"Granton Road, Edinburgh",EH5 3NJ,Primary,ND Primary,ND,,,N/A,North,Forth,4,N/A,North and Leith,5531128,552 3896,551 6596,www.wardie.ik.org,324341,676477
+Balerno Community High School,"5 Bridge Road, Balerno",EH14 7AQ,Secondary,ND Secondary,ND,,,N/A,South West,Pentland Hills,2,N/A,Pentlands,5541638,477 7788,477 7707,www.balernochs.edin.sch.uk,316391,666780
+Boroughmuir High School,"36 Viewforth, Edinburgh",EH10 4LR,Secondary,ND Secondary,ND,,,N/A,South,Meadows/Morningside,10,N/A,Central,5531438,229 9703,228 9185,www.boroughmuir.edin.sch.uk,324540,672380
+Boroughmuir High School Annexe (St Oswald's Hall),"Montpelier Park, Edinburgh",EH10 4NB,Secondary,NDSS Annexe,ND,,YES,N/A,South,Meadows/Morningside,10,N/A,South,5531438,,,www.boroughmuir.edin.sch.uk,324436,672211
+Broughton High School,"1 Carrington Road, Edinburgh",EH4 1EG,Secondary,ND Secondary,ND,,,N/A,North,Inverleith,5,N/A,Central,5531632,332 7805,343 3296,www.broughton.edin.sch.uk,323788,674815
+Castlebrae High School,"2A Greendykes Road, Edinburgh",EH16 4DP,Secondary,ND Secondary,ND,,,N/A,East,Portobello/Craigmillar,17,Craigmillar,East,5531934,661 1282,661 4049,www.castlebrae.edin.sch.uk,329296,671323
+Craigmount High School,"59 Craigs Road, Edinburgh",EH12 8NH,Secondary,ND Secondary,ND,,,N/A,West,Drum Brae/Gyle,3,N/A,West,5532132,339 6823,467 7285,www.craigmount.edin.sch.uk,318605,673238
+Craigroyston Community High School,"67 Pennywell Road, Edinburgh",EH4 4NL,Secondary,ND Secondary,ND,,,N/A,North,Forth,4,North Edinburgh,West,5532434,477 7801,477 7805,none,321827,676319
+Currie High School,"31 Dolphin Avenue, Currie",EH14 5RD,Secondary,ND Secondary,ND,,,N/A,South West,Pentland Hills,2,N/A,Pentlands,5540739,449 2165,451 5854,www.currie.edin.sch.uk,317490,667850
+Drummond Community High School,"41 Bellevue Place, Edinburgh",EH7 4BS,Secondary,ND Secondary,ND,,,N/A,North,Leith Walk,12,N/A,North and Leith,5532531,556 2651,467 7270,www.drummond.edin.sch.uk,325820,674810
+Firrhill High School,"9 Oxgangs Road North, Edinburgh",EH14 1DP,Secondary,ND Secondary,ND,,,N/A,South West,Fountainbridge/Craiglockhart,9,N/A,Pentlands,5532639,441 4501,441 1036,www.firrhill.edin.sch.uk,322817,669783
+Forrester High School,"212 Broomhouse Road, Edinburgh",EH12 9AE,Secondary,ND Secondary,ND,,,N/A,West,Drum Brae/Gyle,3,N/A,Pentlands,5532736,334 9262,467 7134,www.forrester.edin.sch.uk,319676,671695
+Gracemount High School,"136 Lasswade Road, Edinburgh",EH16 6TZ,Secondary,ND Secondary,ND,,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5532930,664 7440,664 8448,www.gracemount.edin.sch.uk,328087,668488
+Holy Rood RC High School,"55 Duddingston Road West, Edinburgh",EH15 3ST,Secondary,RC Secondary,RC,,,N/A,East,Craigentinny/Duddingston,14,N/A,East,5533031,661 5871,659 5868,www.holyrood.edin.sch.uk,328655,672543
+James Gillespie's High School,"57 Lauderdale Street, Edinburgh",EH9 1DD,Secondary,ND Secondary,ND,,,N/A,South,Meadows/Morningside,10,N/A,South,5533139,447 1900,466 7035,www.jamesgillespies.edin.sch.uk,325136,672163
+Leith Academy,"20 Academy Park, Edinburgh",EH6 8JQ,Secondary,ND Secondary,ND,,,N/A,North,Leith,13,N/A,East,5533236,554 0606,555 2698,www.leith.edin.sch.uk,327271,675536
+Liberton High School,"328 Gilmerton Road, Edinburgh",EH17 7PT,Secondary,ND Secondary,ND,,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5533430,664 7514,467 7173,www.liberton.edin.sch.uk,328040,669560
+Portobello High School,"10 Duddingston Road, Edinburgh",EH15 1NF,Secondary,ND Secondary,ND,,,N/A,East,Craigentinny/Duddingston,14,N/A,East,5533538,669 2324,669 0975,www.portobello.edin.sch.uk,329853,673394
+Queensferry High School,"Ashburnham Road, South Queensferry",EH30 9JN,Secondary,ND Secondary,ND,,,N/A,West,Almond,1,N/A,West,5518334,331 1944,319 3201,www.queensferryhigh.co.uk,313700,677839
+St Augustine's RC High School,"208 Broomhouse Road, Edinburgh",EH12 9AD,Secondary,RC Secondary,RC,,,N/A,West,Drum Brae/Gyle,3,N/A,Pentlands,5534038,334 6801,334 7329,www.st-augustines.edin.sch.uk,319487,671851
+St Thomas of Aquin's RC High School,"2-20 Chalmers Street, Edinburgh",EH3 9ES,Secondary,RC Secondary,RC,,,N/A,South,Meadows/Morningside,10,N/A,Central,5534232,229 8734,622 7136,www.stthomasofaquins.edin.sch.uk,325292,672943
+The Royal High Secondary School,"East Barnton Avenue, Edinburgh",EH4 6JP,Secondary,ND Secondary,ND,,,N/A,West,Almond,1,N/A,West,5533732,336 2261,312 8592,www.royalhigh.edin.sch.uk,319922,675292
+Trinity Academy,"Craighall Avenue, Edinburgh",EH6 4RT,Secondary,ND Secondary,ND,,,N/A,North,Forth,4,N/A,North and Leith,5534534,478 5050,478 5055,www.trinity.edin.sch.uk,325500,676590
+Tynecastle High School,"17-19 McLeod Street, Edinburgh",EH11 2NJ,Secondary,ND Secondary,ND,,,N/A,West,Sighthill/Gorgie,7,N/A,Central,5534631,337 3488,337 3915,www.tynecastle.edin.sch.uk,323140,672560
+Wester Hailes Education Centre,"5 Murrayburn Drive, Edinburgh",EH14 2SU,Secondary,ND Secondary,ND,,,N/A,South West,Sighthill/Gorgie,7,Wester Hailes,Pentlands,5533937,442 2201,458 3348,www.whec.edin.sch.uk,319438,670148
+Braidburn School,107 Oxgangs Road North,EH14 1ED,Special,,N/A,YES,,N/A,South West,Fountainbridge/Craiglockhart,9,N/A,Pentlands,5530040,312 2320,441 5065,none,322903,669608
+ESS - Howdenhall (Children's Unit),"39 Howdenhall Road, Edinburgh",EH16 6PG,Special,Secure Unit,N/A,,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5536847,664 8488,664 3549,none,327281,668446
+ESS - St Katharine's,"29b Balmwell Terrace, Edinburgh",EH16 6PS,Special,Secure Unit,N/A,,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5536847,672 1109,666 2979,none,327446,668364
+Gorgie Mills Special School,"349 Gorgie Road, Edinburgh",EH11 2RG,Special,,N/A,,,N/A,West,Fountainbridge/Craiglockhart,9,N/A,Central,5500648,313 3848,337 5069,none,322675,672067
+Kaimes Special School,"140 Lasswade Road, Edinburgh",EH16 6RT,Special,,N/A,,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5535042,664 8241,672 2086,none,328100,668590
+Oaklands Special School,"750 Ferry Road, Edinburgh",EH4 4PQ,Special,,N/A,YES,,N/A,North,Forth,4,North Edinburgh,West,5536049,315 8100,332 8364,www.oaklands.ik.org,321927,675630
+Panmure St Ann's,"6 South Gray's Close, Cowgate, Edinburgh",EH1 1TQ,Special,,N/A,,,CITY,South,City Centre,11,Southside,Central,,556 8833,,,326091,673535
+Pilrig Park Special School,"12 Balfour Place, Edinburgh",EH6 5DW,Special,,N/A,,,N/A,North,Leith Walk,12,Leith,North and Leith,5534747,467 7960,467 7961,none,326420,675560
+Prospect Bank Special School,"81 Restalrig Road, Edinburgh",EH6 8BQ,Special,,N/A,,,N/A,North,Leith,13,N/A,East,5536243,553 2239,554 5119,www.prospectbank.ik.org,327906,675565
+Redhall Special School,"3C Redhall Grove, Edinburgh",EH14 2DU,Special,,N/A,,,N/A,South West,Sighthill/Gorgie,7,N/A,Pentlands,5500443,443 1256,443 6687,none,321158,670435
+Rowanfield School,"67c Groathill Road North, Edinburgh",EH4 2SA,Special,,N/A,,,N/A,North,Inverleith,5,N/A,West,5502640,343 6116,343 1725,www.rowanfield.edin.sch.uk,322357,675088
+St Crispin's Special School,"19 Watertoun Road, Edinburgh",EH9 3HZ,Special,,N/A,,,N/A,South,Southside/Newington,15,N/A,South,5535646,667 4831,668 1487,none,326295,671085
+Wellington School,"Peebles Road, Penicuik, Midlothian",EH26 8PT,Special,,N/A,,,N/A,Outwith,N/A,N/A,N/A,N/A,5584043,01968 672515,01968 675812,none,323845,656703
+Woodlands Special School,"36 Dolphin Avenue, Edinburgh",EH14 5RD,Special,,N/A,,,N/A,South West,Pentland Hills,2,N/A,Pentlands,5500540,449 3447,449 3034,none,317692,667782
+Balgreen Nursery School,"175 Balgreen Road, Edinburgh",EH11 3AT,EY&N,Nursery,N/A,,,N/A,West,Sighthill/Gorgie,7,N/A,Central,5519217,337 1454,,none,322143,672251
+Calderglen Nursery School,"220 Wester Hailes Road, Edinburgh",EH11 4NG,EY&N,Nursery,N/A,,,N/A,South West,Sighthill/Gorgie,7,N/A,Pentlands,5519314,453 5754,,none,319520,670440
+Cameron House Nursery School,"Cameron House Avenue, Edinburgh",EH16 5LF,EY&N,Nursery,N/A,,,N/A,South,Southside/Newington,15,Prestonfield,South,5519411,667 5117,,none,327571,671498
+Cowgate Under 5's Centre,"172 High Street, 7 Old Assembly Cose, Edinburgh",EH1 1QX,EY&N,EYC,N/A,,,N/A,South,City Centre,11,Southside,Central,5519810,225 7251,,none,325840,673580
+Craigmillar C&FC,"6 Craigmillar Castle Gardens, Edinburgh",EH16 4AD,EY&N,C&FC,N/A,,,,,,,,,,661 3126,652 0723,,328536,671434
+Gilmerton C&FC,"66 Gilmerton Dykes Street, Edinburgh",EH17 8PL,EY&N,C&FC,N/A,,,,,,,,,,664 1202,672 3152,,328814,668401
+Granton C&FC,"10 Wardieburn Road, Edinburgh",EH5 1LY,EY&N,C&FC,N/A,,,,,,,,,,552 4808,552 8615,,323355,676668
+Grassmarket Nursery School,"11/15 The Vennel, Grassmarket, Edinburgh",EH1 2HU,EY&N,Nursery,N/A,,,N/A,South,City Centre,11,N/A,Central,5519918,229 6540,,none,325321,673232
+Greendykes C&FC,"205 Craigmillar Castle Avenue, Edinburgh",EH16 4DZ,EY&N,C&FC,N/A,,,,,,,,,,661 3109,652 0730,,329313,671570
+Greengables Nursery School,"8a Niddrie House Gardens, Edinburgh",EH16 4UF,EY&N,Nursery,N/A,,,N/A,East,Portobello/Craigmillar,17,Craigmillar,East,5519713,669 9083,,none,330002,671128
+Hailesland C&FC,"23 Hailesland Place, Edinburgh",EH14 2SL,EY&N,C&FC,N/A,,,,,,,,,,442 2163,453 2576,,320014,670024
+High School Yards Nursery School,"High School Yards, Edinburgh",EH1 1LZ,EY&N,Nursery,N/A,,,N/A,South,City Centre,11,Southside,Central,5520010,556 6536,558 8407,none,326186,673497
+Hope Cottage Nursery School,"Cowan's Close, East Crosscauseway, Edinburgh",EH8 9HF,EY&N,Nursery,N/A,,,N/A,South,Southside/Newington,15,N/A,Central,5520118,667 5795,,www.hopecottage.edin.sch.uk,326290,672880
+Kirkliston Nursery School,"Queensferry Road, Kirkliston",EH29 9AQ,EY&N,Nursery,N/A,,,N/A,West,Almond,1,N/A,West,5521211,333 2336,,www.kirkliston-ns.edin.sch.uk,312452,674750
+Liberton Nursery School,"60 - 70 Mount Vernon Road, Edinburgh",EH16 6JQ,EY&N,Nursery,N/A,,,N/A,South,Liberton/Gilmerton,16,N/A,South,5520215,664 3155,,none,327608,669565
+Lochrin Nursery School,"8 West Tollcross, Edinburgh",EH3 9QN,EY&N,Nursery,N/A,,,N/A,South,Fountainbridge/Craiglockhart,9,N/A,Central,5520312,229 7743,,none,324768,672878
+Moffat Early Years Campus,"20 Moffat Way, Edinburgh",EH16 4PY,EY&N,EYC,N/A,,,,East,,,,,,661 1401,661 1401,,329541,671886
+Pilrig C&FC,"102 Pilrig Street, Edinburgh",EH6 5AY,EY&N,C&FC,N/A,,,,,,,,,,554 3040,553 3559,,326273,675536
+Princess Elizabeth Nursery School,"14 Clearburn Crescent, Edinburgh",EH16 5ER,EY&N,Nursery,N/A,,,N/A,South,Southside/Newington,15,Prestonfield,South,5522811,667 0946,,none,327503,671682
+Queensferry Early Years Centre,"c/o Queensferry Primary School, Burgess Road",EH30 9NX,EY&N,EYC,N/A,,,,,,,,,,332 1949,332 2080,,313000,678033
+St Leonard's Nursery School,"North Richmond Street, Edinburgh",EH8 9SY,EY&N,Nursery,N/A,,,N/A,South,Southside/Newington,15,Southside,Central,5520517,667 4674,,none,326220,673280
+Sighthill C&FC,"12 Calder Gardens, Edinburgh",EH11 4JD,EY&N,C&FC,N/A,,,,,,,,,,442 2018,442 3404,,319053,670366
+Stanwell Nursery School,"Junction Place, Edinburgh",EH6 5JA,EY&N,Nursery,N/A,,,N/A,North,Leith,13,Leith,North and Leith,5520614,554 1309,,www.stanwell.edin.sch.uk,326788,676070
+Stenhouse C&FC,"43 Fords Road, Edinburgh",EH11 3HS,EY&N,C&FC,N/A,,,,,,,,,,443 1207,443 9730,,321805,671674
+The Spinney Lane Nursery School,"13a The Spinney, Edinburgh",EH17 7LD,EY&N,Nursery,N/A,,,N/A,South,Liberton/Gilmerton,16,South Edinburgh,South,5541115,664 9102,,none,328969,668951
+Tynecastle Nursery School,"15 McLeod Street, Edinburgh",EH11 2NJ,EY&N,Nursery,N/A,,,N/A,West,Sighthill/Gorgie,7,N/A,Central,5520711,337 5461,,none,323180,672528
+Victoria Park C&FC,"159 Newhaven Road, Edinburgh",EH6 4QA,EY&N,C&FC,N/A,,,,,,,,,,554 4077,555 3630,,325663,676532
+Viewforth C&FC,"18 Viewforth Terrace, Edinburgh",EH10 4LH,EY&N,C&FC,N/A,,,,,,,,,,229 6667,229 1434,,324400,672376
+West Pilton C&FC,"33 Ferry Road Drive, Edinburgh",EH4 4DB,EY&N,C&FC,N/A,,,,,,,,,,332 3855,315 3194,,322462,676089
+Westfield Court Nursery School,"7 Westfield Court, Edinburgh",EH11 2RJ,EY&N,Nursery,N/A,,,N/A,West,Sighthill/Gorgie,7,N/A,Central,5520819,337 4914,,none,322470,672230

@@ -1,0 +1,233 @@
+ID,HOTEL,OWNER,STREETNO1,STREET,STREETNO2,STREETNO3,POSTCODE,EASTING,GRADE,NORTHING,ROOMS
+1.00000,Premier Inn Edinburgh Park,Whitbread,1.00000,Lochside Way,,,,318337.00000,n/a,671350.00000,120.00000
+2.00000,Marriott Dalmahoy Hotel & Country Club,,,"Long Dalmahoy, Kirknewton",,,EH278EB,314388.00000,4* HO,668725.00000,203.00000
+3.00000,Caledonian Hotel,Hilton,4.00000,Lothian Road    (/Princes Street),,,EH12AB,324700.00000,5* HO,673620.00000,235.00000
+4.00000,Glenisla Hotel,,12.00000,Lygon Road,,,EH165QB,327023.00000,3,670992.00000,10.00000
+5.00000,Thistle Hotel,,59.00000,Manor Place,,,EH37EG,324080.00000,3,673700.00000,11.00000
+6.00000,Ceilidh-Donia Hotel [formerly Marchhall Hotel],,14.00000,Marchhall Crescent,-,16,EH165HL,327106.00000,3,672057.00000,17.00000
+7.00000,St. Christopher's Inn [formerly Station Hotel],St. Christopher's Inns,9.00000,Market Street,to,13,EH11DE,325762.00000,n/a,673737.00000,
+8.00000,Motel One,,18.00000,Market Street / 6 Cockburn Street,to,21,EH11BL,325690.00000,n/a,673712.00000,208.00000
+9.00000,Ivy Guest House,,7.00000,Mayfield Gardens,,,EH92AX,326777.00000,n/a,671797.00000,8.00000
+10.00000,Ben Doran Guest House,,11.00000,Mayfield Gardens,,,EH92AX,326783.00000,4*GH,671780.00000,10.00000
+11.00000,Allison House Hotel,,17.00000,Mayfield Gardens,,,EH92AX,326798.00000,4* GH,671757.00000,11.00000
+12.00000,Barony Guest House,,23.00000,Mayfield Gardens,,,EH92BX,326847.00000,4*GH,671670.00000,9.00000
+13.00000,Glenalmond Guest House,,25.00000,Mayfield Gardens,,,EH92BX,326854.00000,GH 4*,671654.00000,10.00000
+14.00000,Arrandale Guest House,,28.00000,Mayfield Gardens,,,EH92BZ,326836.00000,3*GH,671583.00000,6.00000
+15.00000,Alba Hills Guest House [formerly Rimswell House Hotel],,33.00000,Mayfield Gardens,to,35,EH92BX,326887.00000,n/a,671596.00000,9.00000
+16.00000,International Guest House,,37.00000,Mayfield Gardens,,,EH92BX,326892.00000,n/a,671583.00000,9.00000
+17.00000,Lauderville Guest House,,52.00000,Mayfield Road,,,EH92NH,326561.00000,n/a,671539.00000,10.00000
+18.00000,Best Western Kings Manor Hotel,S. Solley Hotels Ltd.,100.00000,Milton Road East,,,EH152NP,331671.00000,4,672924.00000,95.00000
+19.00000,Thrums Hotel,,14.00000,Minto Street,to,15,EH91RQ,326654.00000,3* GH,672014.00000,14.00000
+20.00000,Edinburgh's Minto Hotel,,16.00000,Minto Street,to,18,EH99RQ,326679.00000,3,671978.00000,23.00000
+21.00000,Ellwyn Hotel,,37.00000,Moira Terrace,to,39,EH76TD,329209.00000,n/a,674305.00000,12.00000
+22.00000,Premier Inn Edinburgh Haymarket,Whitbread Bowland Inns,1.00000,Morrison Link,,,EH38DN,324283.00000,n/a,673199.00000,282.00000
+23.00000,The Avenue Hotel,,4.00000,Murrayfield Avenue,,,EH126AX,322832.00000,2,673300.00000,6.00000
+24.00000,Craigelachie Hotel,,21.00000,Murrayfield Avenue,,,EH126AU,322662.00000,4* GH,673356.00000,8.00000
+25.00000,Beverley Hotel,,40.00000,Murrayfield Avenue,,,EH126AY,322741.00000,4* GH,673424.00000,8.00000
+26.00000,Holyrood Aparthotel,Hotel Connections,1.00000,Nether Bakehouse,,,EH88PE,326530.00000,4* SA,673707.00000,40.00000
+27.00000,Premier Inn Edinburgh Newcraighall,Whitbread Group,91.00000,Newcraighall Road,,,EH16,331720.00000,n/a,671860.00000,42.00000
+28.00000,Hawes Inn,Innkeeper's Lodge,,Newhalls Road,,,EH309TA,313537.00000,1,678289.00000,14.00000
+29.00000,Premier Inn Edinburgh Leith,Whitbread Group,51.00000,Newhaven Place,-,53,EH64TX,325527.00000,n/a,677483.00000,84.00000
+30.00000,Southside Guest House,,8.00000,Newington Road,,,EH91QS,326410.00000,4* GH,672385.00000,8.00000
+31.00000,Barcelo Edinburgh Carlton Hotel,Dawnay Shore Hotels,19.00000,North Bridge,,,EH11SD,325935.00000,5,673762.00000,189.00000
+32.00000,Scotsman Hotel,,20.00000,North Bridge,,,EH11TR,325865.00000,n/a,673760.00000,68.00000
+33.00000,Holiday Inn Express,Holiday Inn / Somerston Hotels (Edinburgh Waterfront),101.00000,Ocean Drive,,,EH66LA,326510.00000,3* HO,676834.00000,145.00000
+34.00000,Arden Guest House,,126.00000,Old Dalkeith Road,,,EH16  4SD,328338.00000,n/a,670482.00000,8.00000
+35.00000,Aaron Lodge,,128.00000,Old Dalkeith Road,,,EH164SD,328338.00000,n/a,670480.00000,10.00000
+36.00000,West End Hotel,,37.00000,Palmerston Place,,,EH125AU,324000.00000,n/a,673625.00000,8.00000
+37.00000,Holiday Inn Express,,16.00000,Picardy Place,to,22,EH13JT,326031.00000,n/a,674430.00000,150.00000
+38.00000,Edinburgh House Hotel [formerly Balfour House Hotel],,92.00000,Pilrig Street,,,EH65AY,326324.00000,n/a,675471.00000,24.00000
+39.00000,Lindsay Guest House,,108.00000,Polwarth Terrace,,,EH111NN,323519.00000,3*GH,671637.00000,7.00000
+40.00000,Ard Na Said Guest House,,5.00000,Priestfield Road,,,EH165HH,327142.00000,4*GH,672005.00000,6.00000
+41.00000,Dorstan House Hotel,,7.00000,Priestfield Road,,,EH165HJ,327177.00000,3* GH,672030.00000,14.00000
+42.00000,Prestonfield House Hotel,,,Priestfield Road,,,EH165UT,327803.00000,5* HO,672105.00000,24.00000
+43.00000,Balmoral Hotel,,1.00000,Princes Street,,,EH22EQ,325820.00000,5* HO,673954.00000,168.00000
+44.00000,Royal British Hotel,Cairn Hotel Group,20.00000,Princes Street,,,EH22AN,325741.00000,3,674004.00000,72.00000
+45.00000,Travelodge Edinburgh Central Princes Street,Arcadia Group Ltd.,30.00000,Princes Street,-,31,EH22BY,325665.00000,n/a,673978.00000,95.00000
+46.00000,Old Waverley Hotel,Paramount Hotel Group,42.00000,Princes Street,to,44,EH22BY,325602.00000,3* HO,673960.00000,66.00000
+47.00000,Robert Burns Hotel  [formerly at Craigalon House],,39.00000,Abercorn Terrace,,,EH152DG,331156.00000,n/a,673531.00000,16.00000
+48.00000,Royal Scots Club,,30.00000,Abercromby Place,,,EH36QE,325308.00000,3*HO,674353.00000,25.00000
+49.00000,Links Hotel,,4.00000,Alvanley Terrace,-,6,EH91DU,324965.00000,n/a,672264.00000,22.00000
+50.00000,Ardmillan Hotel [formerly Nirvana Hotel],,9.00000,Ardmillan Terrace,to,10,EH112JW,323505.00000,2* SH,672377.00000,7.00000
+51.00000,Travelodge Edinburgh West End [formerly Belford Hotel],Menzies Hotels plc / Travelodge,69.00000,Belford Road,,,EH43DG,323766.00000,4* HO,673728.00000,173.00000
+52.00000,Smart City Hostel,Europa Inns (UK) Ltd.,40.00000,Blackfriars Street,to,50,EH11NE,326039.00000,n/a,673550.00000,49.00000
+53.00000,Best Western Braid Hills Hotel,,134.00000,Braid Road,,,EH106JD,324308.00000,3* HO,669988.00000,68.00000
+54.00000,Staycity.com Edinburgh,AMA (New Town) Ltd.,9.00000,Brandfield Street,",",13,EH38AS,324355.00000,SA,672925.00000,74.00000
+55.00000,Mercure Point Hotel,,34.00000,Bread Street,to,58,EH39AF,324946.00000,3* HO,673167.00000,139.00000
+56.00000,Broughton Hotel,,37.00000,Broughton Place,,,EH13RR,325972.00000,3* GH,674624.00000,6.00000
+57.00000,No. 11 [formerly Clan Campbell Hotel],,11.00000,Brunswick Street,,,EH75JB,326452.00000,3* SH,674600.00000,10.00000
+58.00000,Best Western Bruntsfield Hotel,Queensferry Hotels,69.00000,Bruntsfield Place,,,EH104HH,324768.00000,4* HO,672336.00000,74.00000
+59.00000,Premier Inn Edinburgh South Queensferry [formerly Queen's Crossing (Travel Inn)],Whitbread Group,2.00000,Builyeon Road,,,EH309--,312426.00000,n/a,677705.00000,40.00000
+60.00000,Parliament House Hotel,Adam Hotels,15.00000,Calton Hill,,,EH13BJ,326035.00000,3* HO,674100.00000,53.00000
+61.00000,Canon Court Apartments,,20.00000,Canonmills,,,EH35HA,325268.00000,4* SA,675061.00000,32.00000
+62.00000,Castle View Guest House,,30.00000,Castle Street,,,EH23HT,324993.00000,3*GH,673883.00000,18.00000
+63.00000,The Witchery,,,"Castlehill, Royal Mile",,,EH12NF,325419.00000,n/a,673502.00000,8.00000
+64.00000,Roxburghe Hotel,Paragon Hotels / Macdonald Hotels,38.00000,Charlotte Square,,,EH24HG,324786.00000,4* HO,673838.00000,198.00000
+65.00000,Chester Residence,,9.00000,Chester Street,,,EH37RF,324170.00000,SA 5*,673697.00000,5.00000
+66.00000,Claremont Hotel,,14.00000,Claremont Crescent,to,15,EH74HX,325695.00000,1* SH,675187.00000,24.00000
+67.00000,Best Western Edinburgh Capital,Portland Hotels,187.00000,Clermiston Road,,,EH126UG,320193.00000,3* HO,674390.00000,111.00000
+68.00000,Guards Hotel [formerly Clifton Private Hotel],,1.00000,Clifton Terrace,,,EH125DR,324076.00000,2,673261.00000,11.00000
+69.00000,West End Hostel,Shielcroft Ltd.,3.00000,Clifton Terrace,to,4,EH125DR,324057.00000,n/a,673248.00000,8.00000
+70.00000,Tune Hotel Edinburgh Haymarket,TP Hotel (Edinburgh) Ltd.,7.00000,Clifton Terrace,-,8,EH12 5DR,324019.00000,n/a,673236.00000,179.00000
+71.00000,Haymarket & Buchan Hotel,,1.00000,Coates Gardens,-,3,EH125LG,323789.00000,3* HO,673247.00000,25.00000
+72.00000,Piries Hotel,,4.00000,Coates Gardens,to,8,EH125LB,323825.00000,3* HO,673266.00000,32.00000
+73.00000,Boisdale Hotel,,9.00000,Coates Gardens,,,EH125LG,323787.00000,3* GH,673281.00000,10.00000
+74.00000,Lairg Hotel,,11.00000,Coates Gardens,,,EH125LG,323788.00000,3*GH,673293.00000,10.00000
+75.00000,Argus Hotel,,14.00000,Coates Gardens,,,EH125LB,323824.00000,3,673295.00000,11.00000
+76.00000,No. 32 [formerly Beresford Hotel],,32.00000,Coates Gardens,,,EH125LE,323822.00000,3* GH,673369.00000,10.00000
+77.00000,St Valery Guest House,,36.00000,Coates Gardens,,,EH125LE,323822.00000,n/a,673386.00000,11.00000
+78.00000,Edinburgh Backpackers Hostel,,65.00000,Cockburn Street,,,EH11BU,325881.00000,HS,673704.00000,150.00000
+79.00000,Kingsburgh House,,2.00000,Corstorphine Road,,,EH126HN,322565.00000,5*GH,673227.00000,6.00000
+80.00000,Hampton Hotel,,14.00000,Corstorphine Road,,,EH126HN,322471.00000,3* SH,673214.00000,6.00000
+81.00000,Murrayfield Hotel,Festival Inns,18.00000,Corstorphine Road,,,EH126HN,322430.00000,1* HO,673211.00000,37.00000
+82.00000,Western Manor House Hotel,,92.00000,Corstorphine Road,,,EH126JG,321730.00000,n/a,673110.00000,11.00000
+83.00000,Holiday Inn,,132.00000,Corstorphine Road,,,EH126UA,320950.00000,4* HO,672912.00000,303.00000
+84.00000,Budget Backpackers Hostel,,37.00000,Cowgate,to,39,EH11JR,325617.00000,n/a,673410.00000,44.00000
+85.00000,Cowgate Tourist Hostel,,94.00000,Cowgate,-,112,EH11JN,325750.00000,HS,673473.00000,170.00000
+86.00000,Central Hotel [formerly Tailors' Hall Hotel],Festival Inns Ltd.,137.00000,Cowgate,,,EH11JS,325797.00000,2* IN,673440.00000,42.00000
+87.00000,Express by Holiday Inn,,300.00000,Cowgate,,,EH11NQ,326119.00000,n/a,673553.00000,78.00000
+88.00000,Ben Craig Guest House,,3.00000,Craigmillar Park,,,EH165PG,326950.00000,5*GH,671480.00000,9.00000
+89.00000,Kildonan Lodge Hotel,,27.00000,Craigmillar Park,,,EH165PE,327086.00000,4* SH,671230.00000,12.00000
+90.00000,Northumberland Hotel,,31.00000,Craigmillar Park,to,33,EH165PE,327123.00000,3* SH,671170.00000,18.00000
+91.00000,Travelodge Edinburgh Cameron Toll,,41.00000,Craigmillar Park,-,43,EH165PD,327183.00000,n/a,671064.00000,115.00000
+92.00000,94DR [formerly MW Guest House],,94.00000,Dalkeith Road,,,EH165AF,326957.00000,4*GH,672108.00000,6.00000
+93.00000,Rosehall Hotel,,101.00000,Dalkeith Road,,,EH165AJ,327029.00000,3* SH,672082.00000,10.00000
+94.00000,Gifford House,,103.00000,Dalkeith Road,,,EH165AJ,327034.00000,4*GH,672072.00000,6.00000
+95.00000,Belford Backpackers Hostel,,7.00000,Douglas Gardens,,,EH43DA,323880.00000,HS,673772.00000,98.00000
+96.00000,Travelodge Edinburgh Dreghorn,Granada,46.00000,Dreghorn Link,to,48,EH139QR,322981.00000,n/a,668180.00000,72.00000
+97.00000,The Bonham,The Town House Company,34.00000,Drumsheugh Gardens,to,35,EH37RN,324180.00000,4* HO,673823.00000,48.00000
+98.00000,Ardblair Guest House,,1.00000,Duddingston Crescent,,,EH15 3AS,330364.00000,3* GH,672829.00000,8.00000
+99.00000,Walton Hotel,,79.00000,Dundas Street,,,EH36SD,325193.00000,4* GH,674626.00000,10.00000
+100.00000,Mackenzie Guest House,,2.00000,East Hermitage Place,,,EH68AA,327842.00000,4*GH,675752.00000,5.00000
+101.00000,Hilton Edinburgh Airport Hotel [formerly Stakis],,,Edinburgh Airport / Ingliston,,,EH288LL,315179.00000,4* HO,673164.00000,134.00000
+102.00000,Travelodge Edinburgh Haymarket [formerly Greens Hotel],London & Edinburgh Inns Ltd / Travelodge,24.00000,Eglinton Crescent,,,EH125BY,323787.00000,n/a,673448.00000,72.00000
+103.00000,Elder York Guest House,,38.00000,Elder Street,,,EH13DX,325743.00000,3*GH,674288.00000,13.00000
+104.00000,Ellersly House Hotel,Ramada Jarvis (Jarvis Hotels),4.00000,Ellersly Road,,,EH126HZ,322170.00000,2* HO,673362.00000,57.00000
+105.00000,Royal Ettrick Hotel,Festival Hotels Ltd,13.00000,Ettrick Road,,,EH105BJ,323811.00000,3,671958.00000,18.00000
+106.00000,Dene Guest House,,7.00000,Eyre Place,,,EH35ES,325150.00000,3*GH,674860.00000,11.00000
+107.00000,Ardenlee Guest House,,9.00000,Eyre Place,,,EH35ES,325163.00000,3*GH,674863.00000,9.00000
+108.00000,Abercraig Guest House [formerly Relax Guest House],,11.00000,Eyre Place,,,EH35ES,325173.00000,2*GH,674866.00000,10.00000
+109.00000,A Haven Townhouse,Minotel,180.00000,Ferry Road,,,EH64NS,325893.00000,3* HO,676317.00000,14.00000
+110.00000,Bonnington Guest House,,202.00000,Ferry Road,,,EH64NW,325735.00000,4*GH,676287.00000,7.00000
+111.00000,Victoria Park Hotel,,221.00000,Ferry Road,,,EH64NN,325737.00000,n/a,676228.00000,10.00000
+112.00000,Ravensdown Guest House,,248.00000,Ferry Road,,,EH53AN,325032.00000,3*GH,676104.00000,7.00000
+113.00000,Dakota,,,"Ferrymuir, South Queensferry",,,EH309QZ,312725.00000,n/a,677640.00000,132.00000
+114.00000,Sheraton Grand Hotel,,1.00000,Festival Square,,,EH39SR,324688.00000,5* HO,673313.00000,261.00000
+115.00000,Hotel Du Vin,,2.00000,Forrest Rd / 11B Bristo Place,,,EH12QN,325758.00000,n/a,673202.00000,47.00000
+116.00000,Regent House Hotel [formerly Victoria Hotel],,3.00000,Forth Street,,,EH13JX,325921.00000,n/a,674476.00000,18.00000
+117.00000,Frederick House Hotel,,42.00000,Frederick Street,,,EH21EX,325108.00000,n/a,674022.00000,45.00000
+118.00000,Rick's Edinburgh Hotel,Montpeliers Edinburgh Ltd.,55.00000,Frederick Street,A,,EH21LH,325125.00000,n/a,674094.00000,10.00000
+119.00000,Missoni Hotel / Rezidor,,1.00000,George IV Bridge / Lawnmarket / Melbourne Place,,,EH1,325604.00000,n/a,673522.00000,136.00000
+120.00000,Le Monde,Saltire Taverns,16.00000,George Street,,,EH22SL,325412.00000,5*,674024.00000,18.00000
+121.00000,George Hotel,,19.00000,George Street,to,21,EH22PB,325393.00000,4* HO,674081.00000,241.00000
+122.00000,Tigerlily,Montpeliers (Edinburgh) Ltd.,125.00000,George Street,,,EH24JN,324836.00000,n/a,673924.00000,33.00000
+123.00000,Edinburgh Marriott [formerly Royal Scot],Whitbread,111.00000,Glasgow Road,,,EH128NF,318140.00000,4* HO,672671.00000,245.00000
+124.00000,Travelodge Edinburgh Airport,,72.00000,"Glasgow Road (land adjacent to), Edinburgh",,,,313074.00000,n/a,672604.00000,97.00000
+125.00000,Nira Caledonia [formerly Christopher North House Hotel],,4.00000,Gloucester Place,to,10,EH36EF,324738.00000,3* SH,674408.00000,27.00000
+126.00000,Teviotdale House,,53.00000,Grange Loan,,,EH92ER,326264.00000,4* GH,671681.00000,7.00000
+127.00000,Apex International Hotel,,31.00000,Grassmarket,to,35,EH12HS,325366.00000,4* HO,673313.00000,171.00000
+128.00000,Apex City Hotel,,61.00000,Grassmarket,,,EH12JF,325445.00000,4* HO,673326.00000,119.00000
+129.00000,Grassmarket Hotel [formerly Thistle Inn Hotel],Festival Inns,94.00000,Grassmarket,,,EH12JR,325463.00000,2,673416.00000,45.00000
+130.00000,Howard Hotel,The Town House Company,34.00000,Great King Street,,,EH36QH,325242.00000,5* SH,674552.00000,18.00000
+131.00000,The Glasshouse,Eton Group,2.00000,Greenside Place,,,EH13AA,326050.00000,5* HO,674360.00000,65.00000
+132.00000,Ballantrae West End Hotel,Ballantrae Hotel Group,6.00000,Grosvenor Crescent,,,EH125EP,324024.00000,3,673465.00000,10.00000
+133.00000,Grosvenor Gardens Guest House,,1.00000,Grosvenor Gardens,,,EH125JU,323926.00000,3* GH,673291.00000,8.00000
+134.00000,Hilton Edinburgh Grosvenor Hotel [formerly Stakis],,11.00000,Grosvenor Street,to,17,EH125EF,324086.00000,3* HO,673342.00000,186.00000
+135.00000,Ritz Hotel,,14.00000,Grosvenor Street,to,18,EH125EG,324050.00000,2* HO,673314.00000,36.00000
+136.00000,iQ Grove [term-time student accommodation],Kay Haven Developments Ltd.,55.00000,Grove Street,,,EH38AB,324425.00000,SA,673038.00000,321.00000
+137.00000,Brooks Hotel [formerly Herald House Hotel],,70.00000,Grove Street,,,EH38AP,324436.00000,2* HO,672908.00000,45.00000
+138.00000,Grove Executive [Fountain Court Apartments],Triple Crown,113.00000,Grove Street,",",117,EH38AA,324447.00000,SA,672956.00000,24.00000
+139.00000,Fountain Court Apartments,,123.00000,Grove Street,,,EH38AA,324457.00000,4*SA,672925.00000,100.00000
+140.00000,Scottish Youth Hostels Association,,9.00000,Haddington Place,,,EH7 4AL,326235.00000,n/a,674735.00000,301.00000
+141.00000,Dunstane City Hotel,,5.00000,Hampton Terrace,,,,323355.00000,n/a,673171.00000,18.00000
+142.00000,The Lodge Hotel,,6.00000,Hampton Terrace,,,EH125JD,323340.00000,4* GH,673176.00000,12.00000
+143.00000,Kirklea Guest House,,11.00000,Harrison Road,,,EH111EG,323466.00000,3*GH,672182.00000,6.00000
+144.00000,Apex European Hotel,Apex Hotels,90.00000,Haymarket Terrace,,,EH125LQ,323719.00000,4* HO,673251.00000,66.00000
+145.00000,Merith House Hotel,,2.00000,Hermitage Place,to,3,EH68AF,327443.00000,1,675744.00000,10.00000
+146.00000,Culane House Hotel,,9.00000,Hermitage Place,,,EH68AF,327394.00000,n/a,675736.00000,10.00000
+147.00000,Park View House Hotel,,14.00000,Hermitage Place,,,EH68AF,327345.00000,n/a,675725.00000,16.00000
+148.00000,Radisson SAS [formerly Crowne Plaza],Radisson SAS,80.00000,High Street,,,EH11TH,325993.00000,4* HO,673642.00000,228.00000
+149.00000,Brodies Hostel,,93.00000,High Street,,,EH11SG,326024.00000,HS,673692.00000,130.00000
+150.00000,Stag Head Hotel,,8.00000,"High Street, South Queensferry",,,EH309PP,312963.00000,n/a,678388.00000,5.00000
+151.00000,Orocco Pier Hotel [formerly Queensferry Arms Hotel],,17.00000,"High Street, South Queensferry",,,EH309PP,312985.00000,2,678362.00000,15.00000
+152.00000,Ten Hill Place,Royal College of Surgeons of Edinburgh,10.00000,Hill Place,,,EH89DS,326165.00000,n/a,673216.00000,78.00000
+153.00000,Two Hillside Crescent,,2.00000,Hillside Crescent,,,EH7  5DY,326376.00000,n/a,674526.00000,5.00000
+154.00000,Salisbury Green Hotel,Edinburgh University,18.00000,Holyrood Park Road / Dalkeith Road,,,EH165AW,326938.00000,3* HO,672291.00000,36.00000
+155.00000,Holyrood Hotel,Macdonald Hotels,81.00000,Holyrood Road,,,EH88UA,326598.00000,4* HO,673728.00000,157.00000
+156.00000,Hudson Hotel,Festival Hotels Ltd.,7.00000,Hope Street,to,11,EH24EL,324674.00000,n/a,673739.00000,33.00000
+157.00000,Cameron Hotel,,17.00000,Hopetoun Crescent,,,EH74AY,326210.00000,n/a,674955.00000,
+158.00000,Hotel Ibis,,6.00000,Hunter Square,,,EH11QW,325904.00000,2* HO,673592.00000,97.00000
+159.00000,Norton House Hotel,Hand Picked Hotels,,Ingliston,,,EH288LX,313617.00000,4* HO,671925.00000,83.00000
+160.00000,Quality Hotel (formerly Royal Highland Lodge),Ingliston Hotels Ltd.,101.00000,Ingliston Road / Royal Highland Showground,,,EH288NF,314210.00000,3* HO,673115.00000,100.00000
+161.00000,Inverleith Hotel [formerly Lovat Hotel],,5.00000,Inverleith Terrace,,,EH35NS,325023.00000,3* SH,675203.00000,10.00000
+162.00000,Jurys Inn,Jurys,43.00000,Jeffrey Street,,,EH11DH,326013.00000,3* HO,673761.00000,186.00000
+163.00000,Rockville House Hotel,,2.00000,Joppa Pans,,,EH152HF,332150.00000,n/a,673393.00000,6.00000
+164.00000,Seahaven Hotel,,89.00000,Joppa Road,to,91,EH152HB,331640.00000,1,673384.00000,13.00000
+165.00000,Kew House,,1.00000,Kew Terrace,,,EH125JE,323280.00000,n/a,673173.00000,6.00000
+166.00000,Premier Inn Edinburgh Airport (Newbridge),Whitbread,2.00000,Kirkliston Road,A,,EH288SN,312032.00000,n/a,673264.00000,119.00000
+167.00000,Riccarton Arms Hotel,,198.00000,Lanark Road West,,,EH145NX,318210.00000,2* IN,667810.00000,5.00000
+168.00000,Northfield House Hotel,,115.00000,Lasswade Road,,,EH166UD,327995.00000,n/a,668850.00000,4.00000
+169.00000,Marriott Residence Inn Edinburgh,,1.00000,Lauriston Place,,,EH39EE,325600.00000,SA 5*,673028.00000,112.00000
+170.00000,Best Western Edinburgh City Hotel [formerly Simpson Hotel],Bonnington House Ltd.,79.00000,Lauriston Place,,,EH39HY,325090.00000,n/a,673027.00000,52.00000
+171.00000,Novotel,Accor,80.00000,Lauriston Place,,,EH39DG,325160.00000,4* HO,673110.00000,180.00000
+172.00000,Premier Inn Edinburgh City Lauriston Place,Whitbread Group,82.00000,Lauriston Place,,,EH39HZ,325140.00000,2,673085.00000,112.00000
+173.00000,The Knight Residence,,12.00000,Lauriston Street,,,EH39DJ,325048.00000,5*SA,673138.00000,25.00000
+174.00000,Travelodge Edinburgh Learmonth,Festival Inns,18.00000,Learmonth Terrace,to,20,EH41PW,323953.00000,4,674287.00000,68.00000
+175.00000,Thistle Hotel Edinburgh,Thistle Hotels (Mount Charlotte),107.00000,Leith Street,,,EH13SW,325920.00000,3* HO,674130.00000,143.00000
+176.00000,Hotel Twenty [formerly Richmond House Hotel],,20.00000,Leopold Place,,,EH75LB,326349.00000,2 SH,674520.00000,12.00000
+177.00000,Adelphi Hotel [formerly Camore Hotel],,7.00000,Links Gardens,,,EH67JH,327585.00000,2,676032.00000,10.00000
+178.00000,Abbot's House Hotel,,10.00000,Links Place,,,EH67EZ,327460.00000,n/a,676167.00000,45.00000
+179.00000,Lochend Serviced Apartments,,147.00000,Lochend Road,,,EH76ET,327663.00000,SA 4*,675120.00000,42.00000
+180.00000,Novotel,Branded Hotel and Leisure Company Ltd. (applicants),15.00000,Lochside Avenue,,,EH129DJ,318200.00000,HO 4*,671190.00000,170.00000
+181.00000,Ramada Jarvis Mount Royal Hotel,,53.00000,Princes Street,,,EH22DG,325511.00000,3* HO,673938.00000,158.00000
+182.00000,Royal Overseas League,,100.00000,Princes Street,,,EH2 3AB,325152.00000,3*SH,673834.00000,20.00000
+183.00000,Premier Inn Princes Street,,121.00000,Princes Street,"122,",123,EH24AD,324362.00000,n/a,673717.00000,103.00000
+184.00000,easyHotel,Parcotel Ltd,125.00000,Princes Street,A,,,324891.00000,n/a,673753.00000,29.00000
+185.00000,Travelodge,,30.00000,Queen Street,-,31,EH2 1JX,325161.00000,n/a,674135.00000,85.00000
+186.00000,Queen's Guest House,,45.00000,Queen Street,,,EH23NH,325019.00000,n/a,674097.00000,13.00000
+187.00000,Holiday Inn Edinburgh West,,107.00000,Queensferry Road,,,EH43HL,322491.00000,3* HO,674340.00000,101.00000
+188.00000,Caledonian Backpackers Hostel,,3.00000,Queensferry Street,,,EH24PA,324615.00000,HS,673682.00000,270.00000
+189.00000,Travelodge Edinburgh Central Rose Street,,39.00000,Rose Street,-,47,EH22NH,325293.00000,n/a,325293.00000,40.00000
+190.00000,Glenora Guest House,,14.00000,Rosebery Crescent,,,EH125JY,323937.00000,4* GH,673246.00000,11.00000
+191.00000,B+B Edinburgh [formerly Melvin House Hotel],,3.00000,Rothesay Terrace,,,EH37RY,324057.00000,n/a,673770.00000,22.00000
+192.00000,The Edinburgh Residence,,7.00000,Rothesay Terrace,,,EH37RY,324060.00000,5*TH,673772.00000,29.00000
+193.00000,Halcyon Hotel,,8.00000,Royal Terrace,,,EH75AB,326419.00000,1* GH,674379.00000,14.00000
+194.00000,Abbey Hotel [formerly Greenside Hotel],,9.00000,Royal Terrace,,,EH75AB,326427.00000,3* SH,674379.00000,14.00000
+195.00000,Adria Hotel,,11.00000,Royal Terrace,to,12,EH75AB,326453.00000,3* GH,674378.00000,17.00000
+196.00000,Royal Terrace Hotel,Principal Hotels,17.00000,Royal Terrace,to,22,EH75AQ,326522.00000,4* HO,674375.00000,107.00000
+197.00000,Ailsa Craig Hotel,,24.00000,Royal Terrace,,,EH75AH,326562.00000,3* SH,674370.00000,18.00000
+198.00000,Terrace Hotel,,37.00000,Royal Terrace,,,EH75AH,326685.00000,2,674363.00000,14.00000
+199.00000,Rutland Hotel,Signature Pub Group,3.00000,Rutland Street,,,EH12AE,324666.00000,n/a,673640.00000,12.00000
+200.00000,Salisbury Hotel,,43.00000,Salisbury Road,-,45,EH165AA,326568.00000,4*SH,672264.00000,18.00000
+201.00000,Cityroomz,Sleeperz Hotels,25.00000,Shandwick Place,A,,EH24RG,324595.00000,2,673606.00000,74.00000
+202.00000,Edinburgh Nights Hostel [formerly City Centre Guest House Hostel],Mr. Tullis,85.00000,Shandwick Place,-,87,EH24SD,324529.00000,HS,673555.00000,74.00000
+203.00000,Bank Hotel,Festival Inns Ltd.,1.00000,South Bridge,to,3,EH11LL,325956.00000,2* IN,673636.00000,9.00000
+204.00000,Channings,The Town House Company,12.00000,South Learmonth Gardens,to,16,EH41EZ,323999.00000,4* HO,674360.00000,41.00000
+205.00000,MW Town House,,11.00000,Spence Street,,,EH165AG,326987.00000,4*GH,672075.00000,8.00000
+206.00000,Fraser Suites,,12.00000,St Giles Street,-,26,EH1  1PT,325664.00000,n/a,673646.00000,75.00000
+207.00000,Alba Executive Apartments,,58.00000,St. Alban's Road,-,62,EH92LX,326098.00000,SA 5*,671410.00000,11.00000
+208.00000,Tudorbank Lodge,,18.00000,St. John's Road,,,EH126NY,320377.00000,n/a,672887.00000,6.00000
+209.00000,The White Lady [formerly the Agenda Hotel; formerly the Westbury Hotel],,92.00000,St. John's Road,to,98,EH128AT,319995.00000,n/a,672962.00000,29.00000
+210.00000,Innkeepers Lodge Edinburgh West [formerly Harp Hotel],,116.00000,St. John's Road,,,EH128AX,319926.00000,n/a,672967.00000,25.00000
+211.00000,Corstorphine Lodge Hotel,,186.00000,St. John's Road,,,EH12  8SG,319574.00000,3,673023.00000,8.00000
+212.00000,Travelodge Edinburgh Central,,33.00000,St. Mary's Street,,,EH11TA,326180.00000,n/a,673568.00000,201.00000
+213.00000,Gillis Centre,Archdiocese of St. Andrews and Edinburgh,100.00000,Strathearn Road,,,EH91BB,325084.00000,n/a,671892.00000,20.00000
+214.00000,Malmaison,,1.00000,Tower Place,,,EH67DB,327187.00000,4* HO,676706.00000,100.00000
+215.00000,Princes Street Suites,,16.00000,Waterloo Place,,,,325990.00000,SA,674029.00000,37.00000
+216.00000,Travelodge Edinburgh Central,Craypool Investments,17.00000,Waterloo Place,-,19,EH13BG,325938.00000,n/a,674055.00000,96.00000
+217.00000,Apex Waterloo Place,,23.00000,Waterloo Place,to,27,EH13BH,326011.00000,n/a,674078.00000,182.00000
+218.00000,Cumberland Hotel,,1.00000,West Coates,,,EH125JQ,323408.00000,3* SH,673248.00000,10.00000
+219.00000,Dunstane House Hotel,,4.00000,West Coates,,,EH125JQ,323334.00000,4* SH,673238.00000,20.00000
+220.00000,Duthus Lodge Guest House,,5.00000,West Coates,,,EH125JG,323297.00000,3*GH,673239.00000,4.00000
+221.00000,Original Raj Hotel,,6.00000,West Coates,,,EH125JG,323590.00000,n/a,673191.00000,17.00000
+222.00000,Edinburgh Waterfront Apartments / Hot-el-Apartments,,,Western Harbour View,,,,325859.00000,SA,677683.00000,26.00000
+223.00000,Premier Inn Edinburgh East,Whitbread,228.00000,Willowbrae Road,,,EH8 7NG,329070.00000,n/a,673199.00000,47.00000
+224.00000,Lyncliff Hotel,,4.00000,Windsor Street,,,EH75JR,326258.00000,n/a,674537.00000,10.00000
+225.00000,Cairn Hotel,,10.00000,Windsor Street,to,18,EH75JR,326276.00000,3,674575.00000,62.00000
+226.00000,Blue Rainbow Apartments [formerly Royal Garden Apartments],Blue Rainbow Apartments,,"York Buildings, Queen Street",,,EH21JB,325579.00000,n/a,674298.00000,30.00000
+227.00000,Ballantrae Albany Hotel [formerly Albany Hotel],,11.00000,York Lane / 39-47 Albany Street,to,13,EH13QY,325791.00000,n/a,674445.00000,21.00000
+228.00000,Ballantrae Hotel,Ballantrae Hotel Group,8.00000,York Place,,,EH13EP,325648.00000,3* SH,674322.00000,
+229.00000,York House Hotel,,27.00000,York Place,,,,325780.00000,n/a,674307.00000,20.00000
+230.00000,The Place [formerly York Place B&B],Cameron Guest House Group,34.00000,York Place,-,38,EH13HU,325790.00000,n/a,674310.00000,48.00000
+231.00000,Hotel Indigo Edinburgh,Sojourn Hotels LLP / IHG / Indigo Hotels,51.00000,York Place,-,59,EH13JD,325886.00000,n/a,674338.00000,60.00000
+232.00000,Fountain Court Stewart Apartments,GSS Developments (Aberdeen) Ltd.,10.00000,Young Street,-,12,EH2 4JB,324854.00000,n/a,673972.00000,31.00000
