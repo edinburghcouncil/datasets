@@ -15,3 +15,7 @@ Our data isn't perfect and may occasionally be out-of-date, contain inaccuracies
 Unless otherwise indicated our data is being offered under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/) which is copied verbatim in the [LICENCE.md](LICENCE.md) file of this repository.
 
 Anybody who wishes to contribute is encouraged to do so, but by contributing they dedicate their work to the public domain and waive all rights to their contribution under the terms of the [CC0 Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/edinburghcouncil/datasets/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
