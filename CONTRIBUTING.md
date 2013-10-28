@@ -20,9 +20,9 @@ Alternatively, if you've got the technical knowledge and can help us improve our
 
 		git push origin my-branch
 
-- Return to GitHub and submit a [pull request](/edinburghcouncil/datasets/pulls). We'll review your submission and, if everything looks good, we'll merge it into our master branch and close any associated issues.
+- Return to GitHub and submit a [pull request](https://github.com/edinburghcouncil/datasets/pulls). We'll review your submission and, if everything looks good, we'll merge it into our master branch and close any associated issues.
 
 
 ##Discussion
 
-Issues are also used here as a place for wider discussion and debate around Council data and how GitHub can be best used. Just [add a new issue](/edinburghcouncil/datasets/issues/new) to start a new topic or suggestion and weigh in with your opinions.
+Issues are also used here as a place for wider discussion and debate around Council data and how GitHub can be best used. Just [add a new issue](https://github.com/edinburghcouncil/datasets/issues/new) to start a new topic or suggestion and weigh in with your opinions.
