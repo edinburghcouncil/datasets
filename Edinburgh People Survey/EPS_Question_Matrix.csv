@@ -1,0 +1,315 @@
+Question ID ,Question,2011,2012,2013
+ADM001,Year,Not asked,Not asked,Not asked
+ADM002,Record ID,Not asked,Not asked,Not asked
+CAR001,In the past 12 months have you received help from social work services?,Asked,Not asked,Not asked
+CAR002,How satisfied or dissatisfied are you with the service you received from social work?,Asked,Not asked,Not asked
+COM001,The Council keeps me informed about the services it provides,Asked,Asked,Asked
+COM002,It is easy to find information I want from the Council,Asked,Asked,Asked
+COM003,I receive information from the Council in a form that suits me,Asked,Asked,Asked
+COM004,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Outlook – the Council newspaper",Asked,Not asked,Not asked
+COM005,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  A-Z of Council services",Asked,Not asked,Not asked
+COM006,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Other local newspapers",Asked,Not asked,Not asked
+COM007,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Council website via a computer",Asked,Not asked,Not asked
+COM008,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Council website via your mobile phone",Asked,Not asked,Not asked
+COM009,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Twitter",Asked,Not asked,Not asked
+COM010,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.   Facebook",Asked,Not asked,Not asked
+COM011,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Posters/ leaflets in Council offices or libraries",Asked,Not asked,Not asked
+COM012,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Road shows and community events",Asked,Not asked,Not asked
+COM013,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Mobile App (e.g. iPad or smart phone) e.g. to receive alerts about services",Asked,Not asked,Not asked
+COM014,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.  Don’t know",Asked,Not asked,Not asked
+COM015,"Looking at the following list, how do you want to receive information about Council services.  Please select your top 3 with 1 being your favourite.   Other (please specify)",Asked,Not asked,Not asked
+COM016,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. Online via the Council website",Asked,Not asked,Not asked
+COM017,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. By telephone",Asked,Not asked,Not asked
+COM018,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. In person – at a neighbourhood office",Asked,Not asked,Not asked
+COM019,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. In person – at another Council office",Asked,Not asked,Not asked
+COM020,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue)? Please select your top 3 with 1 being your favourite.  In person – at a library",Asked,Not asked,Not asked
+COM021,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. Twitter",Asked,Not asked,Not asked
+COM022,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. Facebook",Asked,Not asked,Not asked
+COM023,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. Mobile App (e.g. iPad or smart phone) e.g. to report an issue using GIS/image from your camera",Asked,Not asked,Not asked
+COM024,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. In writing",Asked,Not asked,Not asked
+COM025,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. By email",Asked,Not asked,Not asked
+COM026,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. Don’t know",Asked,Not asked,Not asked
+COM027,"Looking at the following list, which of these would be your preferred method of contacting the Council (e.g. to request a service, pay for a service, make a query or report an issue). Please select your top 3 with 1 being your favourite. Other (please specify)",Asked,Not asked,Not asked
+COM028,Thinking about your most recent contact with the Council. Please can you tell me to what extent do you agree or disagree with the following statements? I was well treated,Asked,Asked,Asked
+COM029,Thinking about your most recent contact with the Council. Please can you tell me to what extent do you agree or disagree with the following statements? My query was resolved,Asked,Asked,Asked
+COM030,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? In person at an office ",Not asked,Asked,Not asked
+COM031,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? In person at a library",Not asked,Asked,Not asked
+COM032,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? In person at another location",Not asked,Asked,Not asked
+COM033,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? By telephone",Not asked,Asked,Not asked
+COM034,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? By email",Not asked,Asked,Not asked
+COM035,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? By letter",Not asked,Asked,Not asked
+COM036,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Online using a smart phone",Not asked,Asked,Not asked
+COM037,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Online using a tablet",Not asked,Asked,Not asked
+COM038,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Online using a desktop/laptop",Not asked,Asked,Not asked
+COM039,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Through social media, such as Twitter or Facebook",Not asked,Asked,Not asked
+COM040,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Using the Council’s App",Not asked,Asked,Not asked
+COM041,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Other – please specify",Not asked,Asked,Not asked
+COM042,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Don't remember",Not asked,Asked,Not asked
+COM043,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Have not contacted in the last 12 months",Not asked,Asked,Not asked
+COM044,"From this list, please tell me all the ways you contacted, got information from or made payments to the Council in the last year? Other specified",Not asked,Asked,Not asked
+COM045,And how did you most recently contact the Council? ,Not asked,Asked,Not asked
+COM046,And how did you most recently contact the Council? Other,Not asked,Asked,Not asked
+COM047,"From this list, please say if you have done any of the following things in the last year? Visited the Council in person ",Not asked,Not asked,Asked
+COM048,"From this list, please say if you have done any of the following things in the last year? Contacted the Council by telephone",Not asked,Not asked,Asked
+COM049,"From this list, please say if you have done any of the following things in the last year? Emailed the Council",Not asked,Not asked,Asked
+COM050,"From this list, please say if you have done any of the following things in the last year? Written to the Council",Not asked,Not asked,Asked
+COM051,"From this list, please say if you have done any of the following things in the last year? Visited the Council website",Not asked,Not asked,Asked
+COM052,"From this list, please say if you have done any of the following things in the last year? Other ",Not asked,Not asked,Asked
+COM053,"From this list, please say if you have done any of the following things in the last year? Don’t remember",Not asked,Not asked,Asked
+COM054,"From this list, please say if you have done any of the following things in the last year? Have not contacted in the last 12 months",Not asked,Not asked,Asked
+COM055,And which of these contacts was the most recent?,Not asked,Not asked,Asked
+COM056,I’m going to read out a number of statements about the Council. Please can you tell me to what extent you agree or disagree with each one? The Council keeps me informed about their plans to deal with any proposed reductions to their budget,Not asked,Asked,Not asked
+COM057,I’m going to read out a number of statements about the Council. Please can you tell me to what extent you agree or disagree with each one? The Council takes account of residents views when making decisions,Not asked,Asked,Asked
+COM058,I’m going to read out a number of statements about the Council. Please can you tell me to what extent you agree or disagree with each one? The Council keeps me informed about their spending and saving proposals,Not asked,Not asked,Asked
+COM059,"If you wanted to influence a Council decision, which one of these things do you think would be most effective?",Not asked,Not asked,Asked
+COM060,Specify influence (other),Not asked,Not asked,Asked
+COM061,"And thinking about your most recent contact, if you could have contacted the Council about this in any way, which contact method would you have used? ",Not asked,Not asked,Asked
+COM062,Specify preferred method (other),Not asked,Not asked,Asked
+COU001,To what extent are you satisfied or dissatisfied with the way the Council is managing the City?,Asked,Asked,Asked
+COU002,Why do you say this?,Asked,Asked,Asked
+COU003,Why do you say this? (further issue),Asked,Not asked,Not asked
+COU004,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: Reducing crime, disorder, anti-social behaviour and danger",Asked,Not asked,Not asked
+COU005,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: High quality schools and nurseries",Asked,Not asked,Not asked
+COU006,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: A clean, attractive city",Asked,Not asked,Not asked
+COU007,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: Protecting children from harm and abuse",Asked,Not asked,Not asked
+COU008,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: More affordable homes for rent and to buy in the city",Asked,Not asked,Not asked
+COU009,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: A strong economy with high levels of employment",Asked,Not asked,Not asked
+COU010,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: Modern effective transport arrangements, with well maintained roads and pavements ",Asked,Not asked,Not asked
+COU011,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: Residential care and support at home for those who need it (e.g. older people, those in poor health or who have a disability)",Asked,Not asked,Not asked
+COU012,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: Recycling and care for the environment",Asked,Not asked,Not asked
+COU013,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: High quality sporting, leisure and cultural facilities and events",Asked,Not asked,Not asked
+COU014,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: None of these",Asked,Not asked,Not asked
+COU015,"The Council has to balance priorities for the city.  Looking at the following list, which do you think should be the Council’s top 5 priorities for Edinburgh? Priority: Don’t know",Asked,Not asked,Not asked
+COU016,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? The Council cares about the environment,Asked,Asked,Asked
+COU017,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? The Council puts its customers first,Asked,Asked,Asked
+COU018,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? The Council displays sound financial management,Asked,Asked,Asked
+COU019,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? The Council delivers good value for money for its citizens,Asked,Asked,Asked
+COU020,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? The Council provides protection and support for vulnerable people,Asked,Asked,Asked
+CSP001,How often have you or a child/young person in your household used the following council services in your neighbourhood in the past 12 months? Libraries (including online services),Asked,Not asked,Not asked
+CSP002,Have you visited a library in your neighbourhood in the last 12 months?,Not asked,Asked,Asked
+CSP003,Have you used the online library service in the last 12 months?,Not asked,Asked,Asked
+CSP004,"Overall, how satisfied or dissatisfied are you with the library service?",Asked,Asked,Asked
+CSP005,Have you attended any festival in Edinburgh in the last five years? ,Asked,Not asked,Not asked
+CSP006,Have you attended any Festival in Edinburgh in the last two years?,Not asked,Asked,Not asked
+CSP007,Do you feel that you personally benefit from Edinburgh's festivals?,Asked,Asked,Not asked
+CSP008,Do you believe the Festivals make Edinburgh a better or worse place to live?,Not asked,Asked,Asked
+CSP009,"Outside of the Festivals, have you been to any of the following in Edinburgh in the last year? Theatre",Not asked,Not asked,Asked
+CSP010,"Outside of the Festivals, have you been to any of the following in Edinburgh in the last year? Live music or concert",Not asked,Not asked,Asked
+CSP011,"Outside of the Festivals, have you been to any of the following in Edinburgh in the last year? Museum",Not asked,Not asked,Asked
+CSP012,"Outside of the Festivals, have you been to any of the following in Edinburgh in the last year? Art gallery",Not asked,Not asked,Asked
+CSP013,Have you visited the Meadows and Bruntsfield Links this year?,Asked,Not asked,Not asked
+CSP014,Some people use the Meadows and Bruntsfield Links to have barbecues with their friends and family in the summer months. Have you ever been to a barbecue on the Meadows or Bruntsfield Links?,Asked,Not asked,Not asked
+CSP015,Would you support more facilities and better information to help people barbecue safely on the Meadows and Bruntsfield Links,Asked,Not asked,Not asked
+CSP016,Would you support a ban on barbecuing on the Meadows and Bruntsfield Links and more signage to tell people it is not allowed,Asked,Not asked,Not asked
+CSP017,"Overall, how satisfied or dissatisfied are you with the library service?",Not asked,Asked,Asked
+CSP018,How satisfied or dissatisfied are you with sport and leisure activities for children and young people in Edinburgh?,Not asked,Asked,Not asked
+CSP019,"In the last four weeks, have you done any of the activities listed on this card? Walking (at least 30 minutes for any purpose)",Not asked,Asked,Asked
+CSP020,"In the last four weeks, have you done any of the activities listed on this card? Swimming",Not asked,Asked,Asked
+CSP021,"In the last four weeks, have you done any of the activities listed on this card? Football",Not asked,Asked,Asked
+CSP022,"In the last four weeks, have you done any of the activities listed on this card? Cycling (at least 30 minutes for any purpose)",Not asked,Asked,Asked
+CSP023,"In the last four weeks, have you done any of the activities listed on this card? Keep fit/aerobics",Not asked,Asked,Asked
+CSP024,"In the last four weeks, have you done any of the activities listed on this card? Multi-gym use/weight training",Not asked,Asked,Asked
+CSP025,"In the last four weeks, have you done any of the activities listed on this card? Golf",Not asked,Asked,Asked
+CSP026,"In the last four weeks, have you done any of the activities listed on this card? Running/jogging",Not asked,Asked,Asked
+CSP027,"In the last four weeks, have you done any of the activities listed on this card? Snooker/billiards/pool",Not asked,Asked,Asked
+CSP028,"In the last four weeks, have you done any of the activities listed on this card? Dancing",Not asked,Asked,Asked
+CSP029,"In the last four weeks, have you done any of the activities listed on this card? Bowls",Not asked,Asked,Asked
+CSP030,"In the last four weeks, have you done any of the activities listed on this card? Other – please specify",Not asked,Asked,Asked
+CSP031,"In the last four weeks, have you done any of the activities listed on this card? Other specify",Not asked,Asked,Asked
+CSP032,"In the last four weeks, have you done any of the activities listed on this card? None of these",Not asked,Asked,Asked
+CSP033,On how many days in the last four weeks did you do at least one of these activities?,Not asked,Asked,Not asked
+CSP034,"In the past week, on how many days have you done a total of 30 min or more of physical activity, which was enough to raise your breathing rate? This may include sport, exercise and brisk walking or cycling for recreation or to get to and from places?",Not asked,Not asked,Asked
+CSP035,"During your normal travel (such as going to work, school or the shops) do you walk or cycle through a park, green space or woodland?",Not asked,Not asked,Asked
+CSP036,"On how many days in the last week did you visit a park, green space or woodland in Edinburgh for any reason other than travelling through?",Not asked,Not asked,Asked
+CSP037,"I’m going to read out a list of some reasons why people visit parks. For each one can you tell me if you have visited a park, green space or woodland in Edinburgh for this reason in the last year: Take part in sport",Not asked,Not asked,Asked
+CSP038,"I’m going to read out a list of some reasons why people visit parks. For each one can you tell me if you have visited a park, green space or woodland in Edinburgh for this reason in the last year: Walk a dog",Not asked,Not asked,Asked
+CSP039,"I’m going to read out a list of some reasons why people visit parks. For each one can you tell me if you have visited a park, green space or woodland in Edinburgh for this reason in the last year: Exercise",Not asked,Not asked,Asked
+CSP040,"I’m going to read out a list of some reasons why people visit parks. For each one can you tell me if you have visited a park, green space or woodland in Edinburgh for this reason in the last year: Take a child to the park",Not asked,Not asked,Asked
+FIN001,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? How has your personal financial situation changed over the last 12 months?,Asked,Asked,Asked
+FIN002,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? How confident are you about your current and future job/career prospects in Edinburgh?,Asked,Asked,Asked
+FIN003,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? To what extent do you feel qualified for the work you are currently doing?,Asked,Asked,Not asked
+FIN004,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? In the past 12 months have you Claimed housing or Council tax benefits?,Asked,Not asked,Not asked
+FIN005,I am going to read out a number of statements about the Council. Please can you tell me to what extent do you agree or disagree with each? How satisfied or dissatisfied are you with the process of applying for Council tax or housing benefit?,Asked,Not asked,Not asked
+HOU001,Postcode,Asked,Asked,Asked
+HOU002,Datazone,Not asked,Not asked,Not asked
+HOU003,Ward,Asked,Asked,Asked
+HOU004,Sex,Asked,Asked,Asked
+HOU006,Age range,Asked,Asked,Not asked
+HOU007,Working status,Asked,Asked,Asked
+HOU008,"Do you have any long-term illness, health problem or disability?",Asked,Asked,Asked
+HOU009,People in household: Number of adults,Asked,Asked,Asked
+HOU010,People in household: Number of children (aged up to 15 years),Asked,Asked,Asked
+HOU011,Which of these best describes the ownership of your home?,Asked,Asked,Asked
+HOU012,What type of property do you live in?,Asked,Asked,Asked
+HOU013,How long have you been in your current home?,Asked,Asked,Asked
+HOU014,Number of cars or light vans in household,Not asked,Asked,Asked
+HOU015,Which of the following ethnic groups do you consider you belong to?,Asked,Asked,Asked
+HOU016,White (Other European Union Group),Asked,Asked,Asked
+HOU017,White (Other white ethnic group),Asked,Asked,Asked
+HOU018,Mixed or multiple ethnic groups (other),Asked,Asked,Asked
+HOU019,"Asian, Asian Scottish or Asian British (Other)",Asked,Asked,Asked
+HOU020,"African, Caribbean or Black (Other)",Asked,Asked,Asked
+HOU021,Other (Other),Asked,Asked,Asked
+HOU022,"Apart from English, what other languages are you able to speak fluently? Arabic",Not asked,Asked,Not asked
+HOU023,"Apart from English, what other languages are you able to speak fluently? Bengali",Not asked,Asked,Not asked
+HOU024,"Apart from English, what other languages are you able to speak fluently? Cantonese",Not asked,Asked,Not asked
+HOU025,"Apart from English, what other languages are you able to speak fluently? French",Not asked,Asked,Not asked
+HOU026,"Apart from English, what other languages are you able to speak fluently? Gaelic",Not asked,Asked,Not asked
+HOU027,"Apart from English, what other languages are you able to speak fluently? German",Not asked,Asked,Not asked
+HOU028,"Apart from English, what other languages are you able to speak fluently? Italian",Not asked,Asked,Not asked
+HOU029,"Apart from English, what other languages are you able to speak fluently? Mandarin",Not asked,Asked,Not asked
+HOU030,"Apart from English, what other languages are you able to speak fluently? Panjabi",Not asked,Asked,Not asked
+HOU031,"Apart from English, what other languages are you able to speak fluently? Polish",Not asked,Asked,Not asked
+HOU032,"Apart from English, what other languages are you able to speak fluently? Punjabi-Urdu",Not asked,Asked,Not asked
+HOU033,"Apart from English, what other languages are you able to speak fluently? Spanish",Not asked,Asked,Not asked
+HOU034,"Apart from English, what other languages are you able to speak fluently? Other ",Not asked,Asked,Not asked
+HOU035,"Apart from English, what other languages are you able to speak fluently? No other languages",Not asked,Asked,Not asked
+HOU036,"Apart from English, what other languages are you able to speak fluently? Other specify",Not asked,Asked,Not asked
+NEI001,"Thinking of your neighbourhood area, by which I mean the area within a 15 minute walk of your home, how satisfied or dissatisfied are you with this area as a place to live?",Asked,Asked,Asked
+NEI002,What should be the top priority for improving the quality of life in your neighbourhood?,Asked,Asked,Asked
+NEI003,Do you feel that you are able to have a say on things happening or how Council services are run in your local area (neighbourhood or community)?,Asked,Asked,Asked
+NEI004,How important is it to you to be able to have a say on local issues or how council services are run in your area?,Asked,Not asked,Not asked
+NEI005,How much do you agree or disagree with the following statement.  “My neighbourhood within a 15/20 minute walk of my home is a place where people from different backgrounds can get on well together?”,Asked,Asked,Asked
+NEI006,How satisfied or dissatisfied are you with the quality of new buildings and the spaces around them in your local area?,Asked,Asked,Asked
+NEI007,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Maintenance of roads,Asked,Asked,Asked
+NEI008,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Maintenance of pavements/footpaths,Asked,Asked,Asked
+NEI009,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Street cleaning ,Asked,Asked,Asked
+NEI010,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Street lighting,Asked,Not asked,Asked
+NEI011,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Rubbish collection service,Asked,Asked,Asked
+NEI012,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Recycling ,Asked,Asked,Asked
+NEI013,How satisfied or dissatisfied are you with the following services in your local neighbourhood? The way the council deals with clearing the snow and ice treatment on main roads in your local neighbourhood,Asked,Not asked,Not asked
+NEI014,How satisfied or dissatisfied are you with the following services in your local neighbourhood? The way the council deals with clearing the snow and ice treatment on pavements in your local neighbourhood,Asked,Not asked,Not asked
+NEI015,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Parks or other green spaces in your local neighbourhood,Asked,Asked,Asked
+NEI016,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Maintenance of open spaces in your local neighbourhood,Asked,Asked,Not asked
+NEI017,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Provision of adequate shopping areas,Asked,Asked,Not asked
+NEI018,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Public transport,Asked,Asked,Asked
+NEI019,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Sport and leisure facilities run by Edinburgh Leisure,Asked,Asked,Asked
+NEI020,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Facilities for under 12s ,Asked,Not asked,Not asked
+NEI021,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Facilities for teenagers,Asked,Not asked,Not asked
+NEI022,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Facilities for people over 50 ,Asked,Asked,Asked
+NEI023,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Nursery schools ,Not asked,Asked,Asked
+NEI024,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Primary schools ,Not asked,Asked,Asked
+NEI025,How satisfied or dissatisfied are you with the following services in your local neighbourhood? Secondary schools ,Not asked,Asked,Asked
+NEI026,How satisfied or dissatisfied are you with the way the following are dealt with in your local neighbourhood at present? Vandalism and graffiti,Asked,Asked,Asked
+NEI027,How satisfied or dissatisfied are you with the way the following are dealt with in your local neighbourhood at present? Antisocial behaviour,Asked,Asked,Asked
+NEI028,How satisfied or dissatisfied are you with the way the following are dealt with in your local neighbourhood at present? Dog fouling,Asked,Asked,Asked
+NEI029,How satisfied or dissatisfied are you with the way the following are dealt with in your local neighbourhood at present? Neighbour disputes,Asked,Not asked,Not asked
+NEI030,How satisfied or dissatisfied are you with the way the following are dealt with in your local neighbourhood at present? Violent crime,Asked,Asked,Asked
+NEI031,Is street drinking or alcohol related disorder a problem in your neighbourhood?,Asked,Asked,Asked
+NEI032,How safe do you feel in your neighbourhood after dark?,Asked,Asked,Asked
+NEI033,What is your top priority for improving safety in your neighbourhood?,Asked,Not asked,Not asked
+NEI034,How often have you or a child/young person in your household used the following council services in your neighbourhood in the past 12 months? Nursery schools,Asked,Not asked,Not asked
+NEI035,How often have you or a child/young person in your household used the following council services in your neighbourhood in the past 12 months? Primary schools,Asked,Not asked,Not asked
+NEI036,How often have you or a child/young person in your household used the following council services in your neighbourhood in the past 12 months? Secondary schools,Asked,Not asked,Not asked
+NEI037,"Overall, how satisfied are you with each of these Council services? Nursery schools",Asked,Not asked,Not asked
+NEI038,"Overall, how satisfied are you with each of these Council services? Primary schools",Asked,Not asked,Not asked
+NEI039,"Overall, how satisfied are you with each of these Council services? Secondary schools",Asked,Not asked,Not asked
+NEI040,To what extent are you satisfied or dissatisfied with the way the Council is managing your neighbourhood?,Asked,Asked,Asked
+NEI041,Why do you say this?,Asked,Asked,Not asked
+NEI042,Why do you say this? (further),Asked,Not asked,Not asked
+NEI043,Why do you say this? Trams (negative),Not asked,Asked,Asked
+NEI044,Why do you say this? General Mismanagement/poor use of funds/high council tax,Not asked,Asked,Asked
+NEI045,Why do you say this? Roads and pavements,Not asked,Asked,Asked
+NEI046,Why do you say this? General transport issues,Not asked,Asked,Asked
+NEI047,Why do you say this? Environmental issues/Street cleaning,Not asked,Asked,Asked
+NEI048,Why do you say this? Refuse collection/ recycling,Not asked,Asked,Asked
+NEI049,Why do you say this? Housing,Not asked,Asked,Asked
+NEI050,Why do you say this? School condition/closures/ class size,Not asked,Asked,Asked
+NEI051,Why do you say this? Poor consultation and communication,Not asked,Asked,Asked
+NEI052,Why do you say this? Parking,Not asked,Asked,Asked
+NEI053,Why do you say this? Other,Not asked,Asked,Asked
+NEI054,Why do you say this? Nice place to live/good place to live/good city,Not asked,Asked,Asked
+NEI055,Why do you say this? Everything seems to run well/ well managed/ do their best/good job,Not asked,Asked,Asked
+NEI056,Why do you say this? Never had any problems/no issues/no complaints/ ok,Not asked,Asked,Asked
+NEI057,Why do you say this? Always upgrading city/good improvements,Not asked,Asked,Asked
+NEI058,Why do you say this? Happy with services/good services,Not asked,Asked,Asked
+NEI059,Why do you say this? Don't know/no opinion,Not asked,Asked,Asked
+NEI060,Why do you say this? Always room for improvement,Not asked,Asked,Asked
+NEI061,Why do you say this? Trams (positive),Not asked,Asked,Asked
+NEI062,"If you are a Council tenant, have you received the following services in the last year? Repairs Service for your home?",Asked,Not asked,Not asked
+NEI063,"If you are a Council tenant, have you received the following services in the last year? Improvements carried out to your home?",Asked,Not asked,Not asked
+NEI064,"If you are a Council tenant, how satisfied or dissatisfied are you with the Repairs Service for your home?",Asked,Not asked,Not asked
+NEI065,"If you are a Council tenant, how satisfied or dissatisfied are you with improvements carried out to your home?",Asked,Not asked,Not asked
+NEI066,"If you are a Council tenant, how satisfied or dissatisfied are you with the internal condition of your Council property?",Asked,Not asked,Not asked
+NEI067,"If you are a Council tenant, how satisfied or dissatisfied are you with the external condition of your Council property?",Asked,Not asked,Not asked
+NEI068,"If you are a Council tenant, how satisfied or dissatisfied are you with the way you normally pay your rent i.e. though your bank (standing order/direct debit), in person, by telephone, online?",Asked,Not asked,Not asked
+NEI069,"If you are a Council tenant, how satisfied or dissatisfied are you with the EH – Your Key to Choice? (process for letting Council homes)",Asked,Not asked,Not asked
+NEI070,"Thinking about Edinburgh as a whole, how satisfied or dissatisfied are you with it as a place to live?",Asked,Asked,Asked
+NEI071,"Generally speaking would you say that most people can be trusted, or that you can’t be too careful in dealing with people?",Not asked,Asked,Not asked
+TRA001,"Compared to three years ago, are your journey times shorter, about the same or longer (Monday to Friday 07.30-09.30)?",Asked,Not asked,Not asked
+TRA002,"Compared to three years ago, are your journey times shorter, about the same or longer (Monday to Friday 16.00-18.00)?",Asked,Not asked,Not asked
+TRA003,How satisfied or dissatisfied are you with the provision of car parking in Edinburgh?,Asked,Asked,Not asked
+TRA004,How satisfied or dissatisfied are you with road safety in Edinburgh in the city centre?,Asked,Not asked,Not asked
+TRA005,How satisfied or dissatisfied are you with road safety in Edinburgh outside schools?,Asked,Not asked,Not asked
+TRA006,How satisfied or dissatisfied are you with road safety in Edinburgh in shopping areas?,Asked,Not asked,Not asked
+TRA007,How satisfied or dissatisfied are you with road safety in Edinburgh in residential areas?,Asked,Not asked,Not asked
+TRA008,Which of the following forms of transport have you used to travel around Edinburgh in the last month? Bus or coach,Not asked,Asked,Asked
+TRA009,Which of the following forms of transport have you used to travel around Edinburgh in the last month? Drive car or van,Not asked,Asked,Asked
+TRA010,Which of the following forms of transport have you used to travel around Edinburgh in the last month? Passenger in car or van,Not asked,Asked,Asked
+TRA011,"Which of the following forms of transport have you used to travel around Edinburgh in the last month? Motorcycle, scooter or moped",Not asked,Asked,Asked
+TRA012,Which of the following forms of transport have you used to travel around Edinburgh in the last month? Taxi or minicab,Not asked,Asked,Asked
+TRA013,Which of the following forms of transport have you used to travel around Edinburgh in the last month? Train,Not asked,Not asked,Asked
+TRA014,Which of the following forms of transport have you used to travel around Edinburgh in the last month? Bicycle,Not asked,Asked,Asked
+TRA015,Which of the following forms of transport have you used to travel around Edinburgh in the last month? On foot,Not asked,Asked,Asked
+TRA016,And which of these did you use most often?,Not asked,Asked,Not asked
+TRA017,And which of these did you use second most often?,Not asked,Asked,Not asked
+TRA018,And how many days in the last week have you travelled in this way? Bus or coach,Not asked,Not asked,Asked
+TRA019,And how many days in the last week have you travelled in this way? Drive car or van,Not asked,Not asked,Asked
+TRA020,And how many days in the last week have you travelled in this way? Passenger in car or van,Not asked,Not asked,Asked
+TRA021,"And how many days in the last week have you travelled in this way? Motorcycle, scooter or moped",Not asked,Not asked,Asked
+TRA022,And how many days in the last week have you travelled in this way? Taxi or minicab,Not asked,Not asked,Asked
+TRA023,And how many days in the last week have you travelled in this way? Train,Not asked,Not asked,Asked
+TRA024,And how many days in the last week have you travelled in this way? Bicycle,Not asked,Not asked,Asked
+TRA025,And how many days in the last week have you travelled in this way? On foot,Not asked,Not asked,Asked
+TRA026,How satisfied or dissatisfied are you with information about bus services?,Not asked,Asked,Not asked
+TRA027,How satisfied or dissatisfied are you with bus services Monday to Saturday?,Not asked,Asked,Not asked
+TRA028,How satisfied or dissatisfied are you with bus services on Sunday?,Not asked,Asked,Not asked
+TRA029,"As a cyclist, how safe do you feel using the roads in Edinburgh?",Not asked,Asked,Asked
+TRA030,"In the last six months, how often did you use off-road cycle paths in Edinburgh, on average?",Not asked,Asked,Not asked
+TRA031,How satisfied or dissatisfied are you with the maintenance of off-road cycle paths?,Not asked,Asked,Not asked
+TRA032,To what extent would you support or oppose 20MPH speed limits being applied on the following types of road? Residential streets - with a network of main roads left at 30mph,Not asked,Asked,Not asked
+TRA033,"To what extent would you support or oppose 20MPH speed limits being applied on the following types of road? Busy shopping streets - such as Gorgie Road, Morningside Road and the Bridges",Not asked,Asked,Not asked
+TRA034,To what extent would you support or oppose 20MPH speed limits being applied on the following types of road? All City Centre Streets,Not asked,Asked,Not asked
+VOL001,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Children's activities associated with schools,Asked,Asked,Asked
+VOL002,"Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Youth groups, children's activities outside school",Asked,Asked,Asked
+VOL003,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Sport/exercise (coaching or organising),Asked,Asked,Asked
+VOL004,"Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Church, religion or faith based group",Asked,Asked,Asked
+VOL005,"Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Caring organisation e.g. helping older people, people with disabilities",Asked,Asked,Asked
+VOL006,"Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Children's Group (e.g. playgroup, mothers and toddlers groups)",Asked,Asked,Asked
+VOL007,"Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Safety, first aid",Asked,Asked,Asked
+VOL008,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? The environment/animals,Asked,Asked,Asked
+VOL009,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Justice/human rights,Asked,Asked,Asked
+VOL010,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Local community/neighbourhood groups/citizens' groups including community councils,Asked,Asked,Asked
+VOL011,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Hobbies/recrecreational/arts/social clubs,Asked,Asked,Asked
+VOL012,"Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Tenants group, housing association or residents association",Asked,Asked,Asked
+VOL013,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Trade union activities,Asked,Asked,Asked
+VOL014,"Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Public service (e.g. School, hospital, police or local government service)",Asked,Asked,Asked
+VOL015,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Professional society or organisation,Asked,Asked,Asked
+VOL016,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Other,Asked,Asked,Asked
+VOL017,Have you undertaken any work or activities on a voluntary basis for any of these types of groups or organisations at any time in the last 12 months? Not involved in volunteering,Asked,Asked,Asked
+VOL018,"On average, how many hours have you volunteered per week?",Asked,Asked,Asked
+WEB001,How do you usually access the internet at home? Dial-up connection,Not asked,Asked,Asked
+WEB002,How do you usually access the internet at home? Broadband connection,Not asked,Asked,Asked
+WEB003,How do you usually access the internet at home? Superfast broadband connection (over 24 megabits per second),Not asked,Asked,Asked
+WEB004,How do you usually access the internet at home? Mobile device (e.g. smart phone),Not asked,Asked,Asked
+WEB005,How do you usually access the internet at home?  Do not access the internet at home,Not asked,Asked,Asked
+WEB006,How do you usually access the internet at home?  Don’t know,Not asked,Asked,Asked
+WEB007,How do you usually access the internet at home?  Pilot internet,Not asked,Asked,Asked
+WEB008,"And what ways do you usually access the internet when not at home?  Mobile device
+(e.g. smart phone or mobile-enabled tablet PC)",Not asked,Not asked,Asked
+WEB009,And what ways do you usually access the internet when not at home? At the home of a friend or family member,Not asked,Not asked,Asked
+WEB010,And what ways do you usually access the internet when not at home? At work,Not asked,Not asked,Asked
+WEB011,"And what ways do you usually access the internet when not at home? At a library in Edinburgh 
+(either WiFi or using a library computer)
+",Not asked,Not asked,Asked
+WEB012,And what ways do you usually access the internet when not at home? Through WiFi on public transport,Not asked,Not asked,Asked
+WEB013,"And what ways do you usually access the internet when not at home? At pubs, cafes or  internet cafes 
+(either WiFi or using a computer available)
+",Not asked,Not asked,Asked
+WEB014,And what ways do you usually access the internet when not at home? Do not access the internet outside of home,Not asked,Not asked,Asked
+WEB015,"Do you use social media – for example, Facebook or Twitter?",Not asked,Asked,Not asked
+WEB016,Were you aware that the Council has neighbourhood specific Facebook pages and Twitter accounts for a range of services?,Not asked,Asked,Asked
+WEB017,Have you ever used the internet or mobile apps?,Not asked,Not asked,Asked
+WEB018,"I’m going to read out a list of things that some people use the internet or their mobile phone for, for each one can you tell me whether this is something you’ve done in the last year: Used internet banking",Not asked,Not asked,Asked
+WEB019,"I’m going to read out a list of things that some people use the internet or their mobile phone for, for each one can you tell me whether this is something you’ve done in the last year: Bought something over the internet",Not asked,Not asked,Asked
+WEB020,"I’m going to read out a list of things that some people use the internet or their mobile phone for, for each one can you tell me whether this is something you’ve done in the last year: Requested a service from the Council, reported a problem or paid a Council bill on the internet",Not asked,Not asked,Asked
