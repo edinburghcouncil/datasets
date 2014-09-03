@@ -1,21 +1,23 @@
-Name,Address,Postcode,Telephone,Email,"More information","Opening hours","Head Teacher",Neighbourhood,"Eco-Schools status",Location
-"Braidburn Special School","107 Oxgangs Road North","EH14 1ED","0131 312 2320",Admin@Braidburn.edin.sch.uk,,"Mon-Thu, 8.45am-3.40pm
-Fri, 8.45am-12.10pm","Arlene Mooney","South West",Silver,"55.914897,-3.234631"
+Name,Address,Postcode,Telephone,Email,"More information","Opening hours","Head Teacher",Inspection,Neighbourhood,"Eco-Schools status",Location
+"Braidburn Special School","107 Oxgangs Road North","EH14 1ED","0131 312 2320",Admin@Braidburn.edin.sch.uk,http://www.braidburn.edin.sch.uk,"Mon-Thu, 8.45am-3.40pm
+Fri, 8.45am-1230pm","Morna Phillips (Acting)","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>","South West",Silver,"55.914897,-3.234631"
+"Edinburgh Secure Services (Howdenhall)","39 Howdenhall Road","EH16 6PG","0131 664 8488",Admin@howdenhall.edin.sch.uk,,,"Gay Smith","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",South,Registered,"55.9037385,-3.1652901"
+"Edinburgh Secure Services (St Katharine's)","29a Balmwell Terrace","EH16 6PS","0131 672 1109",Admin@howdenhall.edin.sch.uk,,,"Gay Smith","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",South,Registered,"55.9013084,-3.162712"
 "Gorgie Mills Special School","97 Gorgie Park Road","EH11 2QL","0131 313 3848",Admin@gorgiemills.edin.sch.uk,http://www.gorgiemills.edin.sch.uk,"Mon-Thu, 8.45am-3.30pm
-Fri, 8.45am-12.30pm","Terri Dwyer",West,Bronze,"55.936424,-3.239055"
+Fri, 8.45am-12.30pm","Terri Dwyer","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",West,Bronze,"55.936424,-3.239055"
 "Kaimes Special School","140 Lasswade Road","EH16 6RT","0131 664 8241",Admin@kaimes.edin.sch.uk,http://www.kaimes.edin.sch.uk,"Mon-Thu, 8.40am-3.30pm
-Fri, 8.40am-12.10pm","Kath Togneri",South,"Green Flag","55.9054,-3.151046"
-"Oaklands Special School","750 Ferry Road","EH4 4PQ","0131 315 8100",Admin@oaklands.edin.sch.uk,http://www.oaklands.edin.sch.uk,"Nursery/Primary: Mon-Thur 9.00am-3.00pm, Fri  9.00am-12.30pm. Secondary: Mon-Thur, 9.00am-3.30pm, Fri 9.00am-12.30pm","Maureen Mathieson",North,"Green Flag","55.966754,-3.252311"
-"Panmure St Ann's","6 South Gray`s Close","EH1 1TQ","0131 556 8833",,,,"Angelina Lombardo (Acting)",South,Registered,"55.949505,-3.184908"
-"Pilrig Park Special School","12 Balfour Place","EH6 5DW","0131 467 7960",Admin@pilrigpark.edin.sch.uk,,"Mon-Thu, 8.30am-3.15pm
-Fri, 8.30am-12.00pm","Ellen Muir",North,"Green Flag","55.967621,-3.179851"
+Fri, 8.40am-12.10pm","Ros Miller","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",South,"Green Flag","55.9054,-3.151046"
+"Oaklands Special School","750 Ferry Road","EH4 4PQ","0131 315 8100",admin@oaklands.edin.sch.uk,http://www.oaklands.edin.sch.uk,"Nursery/Primary: Mon-Thur 9.00am-3.00pm, Fri  9.00am-12.30pm. Secondary: Mon-Thur, 9.00am-3.30pm, Fri 9.00am-12.30pm","Maureen Mathieson","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",North,"Green Flag","55.966754,-3.252311"
+"Panmure St Ann's","6 South Gray`s Close","EH1 1TQ","0131 556 8833",,,,"Angelina Lombardo","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",South,Registered,"55.949505,-3.184908"
+"Pilrig Park Special School","12 Balfour Place","EH6 5DW","0131 467 7960",Admin@pilrigpark.edin.sch.uk,http://www.pilrigpark.edin.sch.uk,"Mon-Thu, 8.30am-3.15pm
+Fri, 8.30am-12.00pm","Ellen Muir","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",North,"Green Flag","55.967621,-3.179851"
 "Prospect Bank Special School","81 Restalrig Road","EH6 8BQ","0131 553 2239",Admin@prospectbank.edin.sch.uk,http://www.prospectbank.edin.sch.uk,"Mon-Thu, 9.05am-3.10pm
-Fri, 9.05am-13.00pm","Kirsty Rosie",North,"Green Flag","55.967512,-3.157653"
+Fri, 9.05am-13.00pm","Kirsty Rosie","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",North,"Green Flag","55.967512,-3.157653"
 "Redhall Special School","3c Redhall Grove","EH14 2DU","0131 443 1256",Admin@redhall.edin.sch.uk,,"Mon-Thu, 9.00am-3.05pm
-Fri, 9.00am-12.35pm","Susan Shipway","South West",Silver,"55.921502,-3.261133"
-"Rowanfield Special School","67c Groathill Road North","EH4 2SA","0131 343 6116",Admin@rowanfield.edin.sch.uk,,"Mon-Thu, 8.55am-3.10pm
-Fri, 8.55am-12.10pm","Leanne Sharpe",North,Bronze,"55.962236,-3.247681"
+Fri, 9.00am-12.35pm","Susan Shipway","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>","South West",Silver,"55.921502,-3.261133"
+"Rowanfield Special School","67c Groathill Road North","EH4 2SA","0131 343 6116",Admin@rowanfield.edin.sch.uk,http://www.rowanfield.edin.sch.uk,"Mon-Thu 8.55am-3.10pm, 
+Fr 8.55am-12.10pm","Leanne Hepburn","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",North,Bronze,"55.962236,-3.247681"
 "St Crispin's Special School","19 Watertoun Road","EH9 3HZ","0131 667 4831",Admin@st-crispins.edin.sch.uk,http://www.st-crispins.edin.sch.uk,"Mon-Thu, 8.47am-3.20pm
-Fri, 8.47am-13.05pm","Ruth Hendery",South,"Green Flag","55.926912,-3.181659"
+Fri, 8.47am-13.05pm","Ruth Hendery","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>",South,"Green Flag","55.926912,-3.181659"
 "Woodlands Special School","36 Dolphin Avenue","EH14 5RD","0131 449 3447",Admin@woodland.edin.sch.uk,http://www.woodlands.edin.sch.uk,"Mon-Thu, 8.55am-3.35pm
-Fri, 8.55am-13.00pm","Aisling Boyle","South West",Bronze,"55.893895,-3.31974"
+Fri, 8.55am-13.00pm","Angelina Lombardo","<a href=""http://www.educationscotland.gov.uk/inspectionandreview/reports/school/index.asp"">Read Education Scotland's inspection reports</a>","South West",Bronze,"55.893895,-3.31974"

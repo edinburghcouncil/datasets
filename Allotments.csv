@@ -1,4 +1,6 @@
 Name,Address,Postcode,Telephone,Email,"Total plots","Vacant plots","Waiting time",Facilities,Location,"Location description"
+Barnscourt,"Barnscourt Terrace","EH8 7EN","0131 311 7072",allotments@edinburgh.gov.uk,20,0,"1 year","locakable container
+water supply","55.9534053,-3.143751800000018",
 "Bridgend Farm ","Old Dalkeith Road","EH16 4","0131 311 7072",allotments@edinburgh.gov.uk,54,0,"5 years","Toilets
 Water 
 Secure storage Waste collection","55.926845946778435,-3.1535911560058594",
@@ -13,6 +15,8 @@ Secure storage Waste collection","55.969183,-3.155214",
 Craigentinny,"Findlay Gardens","EH7 6","0131 311 7072",allotments@edinburgh.gov.uk,47,0,"4 years","Toilets 
 Water 
 Waste collection","55.964648,-3.147771",
+Drumbrae,"Drumbrae Terrace","EH4 7SF","0131 311 7072",allotments@edinburgh.gov.uk,20,0,"1 year","Tool box for each raised bed
+Communal shed","55.95533247432204,-3.2926342354430744",
 "Dumbryden allotments","Dumbryden Drvie","EH14 2QP","0131 331 7072",allotments@edinburgh.gov.uk,37,0,"1 year","Secure storage","55.91915130709887,-3.274698257446289",
 "Ferry Road","Chancelot Grove","EH5 7","0131 311 7072",allotments@edinburgh.gov.uk,72,0,"6 years","Toilets
 Water 
@@ -29,6 +33,8 @@ Waste collection","55.95611969847032,-3.2098960876464844",
 "Inverleith Park","East Fettes Avenue","EH3 5","0131 311 7072",allotments@edinburgh.gov.uk,165,0,"9 years","Toilets
 Water 
 Secure storage Waste collection","55.963903079631436,-3.2200241088867188","In Inverleith Park"
+Kirkliston,Almondside,"EH29 9BD","0131 311 7072",allotments@edinburgh.gov.uk,7,0,"1 year","lockable shed
+water supply","55.95533289999999,-3.400071799999978",
 "Lady Road","Cameron Toll","EH16 5","0131 311 7072",allotments@edinburgh.gov.uk,36,0,"7 years","Water supply
 Waste collection","55.92937041757712,-3.162689208984375",
 "Leith Links","1 Links Gardens",,"0131 311 7072",parks@edinburgh.gov.uk,36,0,"6 years","Toilets 
